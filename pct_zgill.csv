@@ -1,1385 +1,1385 @@
-pct.1,pct.2,cell type,coeff
-0.514,0.305,Proliferating cell,0.08974364217
-0.954,0.678,Proliferating cell,0.08974364217
-0.718,0.43,Proliferating cell,0.08974364217
-0.284,0.168,Proliferating cell,0.08974364217
-0.873,0.608,Proliferating cell,0.08974364217
-0.612,0.369,Proliferating cell,0.08974364217
-0.83,0.544,Proliferating cell,0.08974364217
-0.837,0.634,Proliferating cell,0.08974364217
-0.363,0.237,Proliferating cell,0.08974364217
-0.278,0.209,Proliferating cell,0.08974364217
-0.286,0.208,Proliferating cell,0.08974364217
-0.519,0.325,Proliferating cell,0.08974364217
-0.257,0.179,Proliferating cell,0.08974364217
-0.466,0.412,Proliferating cell,0.08974364217
-0.309,0.234,Proliferating cell,0.08974364217
-0.545,0.343,Proliferating cell,0.08974364217
-0.324,0.242,Proliferating cell,0.08974364217
-0.451,0.319,Proliferating cell,0.08974364217
-0.283,0.216,Proliferating cell,0.08974364217
-0.261,0.199,Proliferating cell,0.08974364217
-0.773,0.609,Proliferating cell,0.08974364217
-0.34,0.243,Proliferating cell,0.08974364217
-0.5,0.384,Proliferating cell,0.08974364217
-0.372,0.266,Proliferating cell,0.08974364217
-0.404,0.303,Proliferating cell,0.08974364217
-0.337,0.252,Proliferating cell,0.08974364217
-0.274,0.17,Proliferating cell,0.08974364217
-0.283,0.212,Proliferating cell,0.08974364217
-0.256,0.185,Proliferating cell,0.08974364217
-0.652,0.51,Proliferating cell,0.08974364217
-0.921,0.808,Proliferating cell,0.08974364217
-0.998,0.965,Proliferating cell,0.08974364217
-0.998,0.965,Proliferating cell,0.08974364217
-0.994,0.937,Proliferating cell,0.08974364217
-1,0.994,Proliferating cell,0.08974364217
-0.99,0.918,Proliferating cell,0.08974364217
-0.285,0.233,Proliferating cell,0.08974364217
-0.496,0.407,Proliferating cell,0.08974364217
-0.426,0.369,Proliferating cell,0.08974364217
-0.306,0.288,Proliferating cell,0.08974364217
-0.369,0.323,Proliferating cell,0.08974364217
-0.973,0.884,Proliferating cell,0.08974364217
-0.984,0.92,Proliferating cell,0.08974364217
-0.351,0.321,Proliferating cell,0.08974364217
-0.767,0.701,Proliferating cell,0.08974364217
-0.537,0.3,Immunocyte,0.22879082
-0.841,0.425,Immunocyte,0.22879082
-0.88,0.464,Immunocyte,0.22879082
-0.542,0.282,Immunocyte,0.22879082
-0.423,0.241,Immunocyte,0.22879082
-0.311,0.189,Immunocyte,0.22879082
-0.722,0.402,Immunocyte,0.22879082
-0.372,0.165,Immunocyte,0.22879082
-0.806,0.41,Immunocyte,0.22879082
-0.575,0.322,Immunocyte,0.22879082
-0.976,0.854,Immunocyte,0.22879082
-0.804,0.49,Immunocyte,0.22879082
-0.564,0.322,Immunocyte,0.22879082
-0.353,0.186,Immunocyte,0.22879082
-0.843,0.553,Immunocyte,0.22879082
-0.614,0.389,Immunocyte,0.22879082
-0.95,0.74,Immunocyte,0.22879082
-1,0.952,Immunocyte,0.22879082
-0.327,0.205,Immunocyte,0.22879082
-0.292,0.213,Immunocyte,0.22879082
-0.416,0.304,Immunocyte,0.22879082
-0.407,0.273,Immunocyte,0.22879082
-0.342,0.282,Immunocyte,0.22879082
-0.442,0.306,Immunocyte,0.22879082
-0.315,0.261,Immunocyte,0.22879082
-0.66,0.468,Immunocyte,0.22879082
-0.309,0.234,Immunocyte,0.22879082
-0.27,0.236,Immunocyte,0.22879082
-0.998,0.952,Immunocyte,0.22879082
-0.377,0.324,Immunocyte,0.22879082
-0.611,0.525,Immunocyte,0.22879082
-0.305,0.197,Immunocyte,0.22879082
-0.567,0.519,Immunocyte,0.22879082
-0.379,0.34,Immunocyte,0.22879082
-0.989,0.926,Immunocyte,0.22879082
-0.254,0.216,Immunocyte,0.22879082
-0.847,0.771,Immunocyte,0.22879082
-0.995,0.964,Immunocyte,0.22879082
-0.454,0.371,Immunocyte,0.22879082
-0.296,0.262,Immunocyte,0.22879082
-0.446,0.4,Immunocyte,0.22879082
-0.264,0.248,Immunocyte,0.22879082
-0.982,0.923,Immunocyte,0.22879082
-0.999,0.966,Immunocyte,0.22879082
-0.637,0.601,Immunocyte,0.22879082
-0.323,0.306,Immunocyte,0.22879082
-0.989,0.922,Immunocyte,0.22879082
-0.998,0.967,Immunocyte,0.22879082
-0.988,0.941,Immunocyte,0.22879082
-0.963,0.89,Immunocyte,0.22879082
-0.967,0.547,Pharyngeal arch cell,0.6169551214
-0.767,0.314,Pharyngeal arch cell,0.6169551214
-0.494,0.196,Pharyngeal arch cell,0.6169551214
-0.516,0.276,Pharyngeal arch cell,0.6169551214
-0.463,0.236,Pharyngeal arch cell,0.6169551214
-0.312,0.228,Pharyngeal arch cell,0.6169551214
-0.517,0.254,Pharyngeal arch cell,0.6169551214
-0.472,0.267,Pharyngeal arch cell,0.6169551214
-0.517,0.3,Pharyngeal arch cell,0.6169551214
-0.296,0.163,Pharyngeal arch cell,0.6169551214
-0.973,0.743,Pharyngeal arch cell,0.6169551214
-0.319,0.229,Pharyngeal arch cell,0.6169551214
-0.339,0.236,Pharyngeal arch cell,0.6169551214
-0.808,0.566,Pharyngeal arch cell,0.6169551214
-0.264,0.195,Pharyngeal arch cell,0.6169551214
-0.26,0.215,Pharyngeal arch cell,0.6169551214
-0.871,0.68,Pharyngeal arch cell,0.6169551214
-0.372,0.241,Pharyngeal arch cell,0.6169551214
-0.938,0.818,Pharyngeal arch cell,0.6169551214
-0.336,0.228,Pharyngeal arch cell,0.6169551214
-0.403,0.354,Pharyngeal arch cell,0.6169551214
-0.275,0.214,Pharyngeal arch cell,0.6169551214
-0.926,0.815,Pharyngeal arch cell,0.6169551214
-0.561,0.481,Pharyngeal arch cell,0.6169551214
-0.632,0.514,Pharyngeal arch cell,0.6169551214
-0.832,0.708,Pharyngeal arch cell,0.6169551214
-0.821,0.653,Pharyngeal arch cell,0.6169551214
-0.391,0.358,Pharyngeal arch cell,0.6169551214
-0.355,0.329,Pharyngeal arch cell,0.6169551214
-0.391,0.317,Pharyngeal arch cell,0.6169551214
-0.585,0.525,Pharyngeal arch cell,0.6169551214
-0.524,0.527,Pharyngeal arch cell,0.6169551214
-0.853,0.773,Pharyngeal arch cell,0.6169551214
-0.268,0.268,Pharyngeal arch cell,0.6169551214
-0.276,0.267,Pharyngeal arch cell,0.6169551214
-0.991,0.955,Pharyngeal arch cell,0.6169551214
-0.289,0.287,Pharyngeal arch cell,0.6169551214
-0.583,0.456,Pharyngeal arch cell,0.6169551214
-0.389,0.383,Pharyngeal arch cell,0.6169551214
-0.927,0.098,Branchial muscle cell,0.9686170674
-0.897,0.076,Branchial muscle cell,0.9686170674
-0.83,0.057,Branchial muscle cell,0.9686170674
-0.828,0.044,Branchial muscle cell,0.9686170674
-0.764,0.072,Branchial muscle cell,0.9686170674
-0.686,0.035,Branchial muscle cell,0.9686170674
-0.576,0.063,Branchial muscle cell,0.9686170674
-0.64,0.076,Branchial muscle cell,0.9686170674
-0.731,0.138,Branchial muscle cell,0.9686170674
-0.563,0.053,Branchial muscle cell,0.9686170674
-0.497,0.06,Branchial muscle cell,0.9686170674
-0.611,0.047,Branchial muscle cell,0.9686170674
-0.679,0.042,Branchial muscle cell,0.9686170674
-0.658,0.125,Branchial muscle cell,0.9686170674
-0.777,0.155,Branchial muscle cell,0.9686170674
-0.41,0.034,Branchial muscle cell,0.9686170674
-0.578,0.057,Branchial muscle cell,0.9686170674
-0.496,0.029,Branchial muscle cell,0.9686170674
-0.547,0.072,Branchial muscle cell,0.9686170674
-0.486,0.11,Branchial muscle cell,0.9686170674
-0.637,0.036,Branchial muscle cell,0.9686170674
-0.479,0.041,Branchial muscle cell,0.9686170674
-0.452,0.018,Branchial muscle cell,0.9686170674
-0.895,0.602,Branchial muscle cell,0.9686170674
-0.406,0.117,Branchial muscle cell,0.9686170674
-0.585,0.043,Branchial muscle cell,0.9686170674
-0.711,0.184,Branchial muscle cell,0.9686170674
-0.545,0.025,Branchial muscle cell,0.9686170674
-0.499,0.065,Branchial muscle cell,0.9686170674
-0.44,0.068,Branchial muscle cell,0.9686170674
-0.325,0.021,Branchial muscle cell,0.9686170674
-0.508,0.18,Branchial muscle cell,0.9686170674
-0.482,0.101,Branchial muscle cell,0.9686170674
-0.612,0.065,Branchial muscle cell,0.9686170674
-0.522,0.04,Branchial muscle cell,0.9686170674
-0.396,0.085,Branchial muscle cell,0.9686170674
-0.544,0.125,Branchial muscle cell,0.9686170674
-0.293,0.05,Branchial muscle cell,0.9686170674
-0.252,0.057,Branchial muscle cell,0.9686170674
-0.254,0.043,Branchial muscle cell,0.9686170674
-0.338,0.044,Branchial muscle cell,0.9686170674
-0.352,0.076,Branchial muscle cell,0.9686170674
-0.583,0.114,Branchial muscle cell,0.9686170674
-0.642,0.089,Branchial muscle cell,0.9686170674
-0.343,0.017,Branchial muscle cell,0.9686170674
-0.584,0.086,Branchial muscle cell,0.9686170674
-0.786,0.437,Branchial muscle cell,0.9686170674
-0.352,0.073,Branchial muscle cell,0.9686170674
-0.324,0.015,Branchial muscle cell,0.9686170674
-0.8,0.463,Branchial muscle cell,0.9686170674
-0.359,0.05,Branchial muscle cell,0.9686170674
-0.38,0.082,Branchial muscle cell,0.9686170674
-0.661,0.187,Branchial muscle cell,0.9686170674
-0.578,0.086,Branchial muscle cell,0.9686170674
-0.302,0.012,Branchial muscle cell,0.9686170674
-0.422,0.18,Branchial muscle cell,0.9686170674
-0.567,0.027,Branchial muscle cell,0.9686170674
-0.371,0.062,Branchial muscle cell,0.9686170674
-0.424,0.07,Branchial muscle cell,0.9686170674
-0.325,0.02,Branchial muscle cell,0.9686170674
-0.306,0.154,Branchial muscle cell,0.9686170674
-0.408,0.057,Branchial muscle cell,0.9686170674
-0.429,0.068,Branchial muscle cell,0.9686170674
-0.424,0.069,Branchial muscle cell,0.9686170674
-0.372,0.032,Branchial muscle cell,0.9686170674
-0.302,0.164,Branchial muscle cell,0.9686170674
-0.283,0.086,Branchial muscle cell,0.9686170674
-0.475,0.086,Branchial muscle cell,0.9686170674
-0.346,0.04,Branchial muscle cell,0.9686170674
-0.456,0.069,Branchial muscle cell,0.9686170674
-0.28,0.107,Branchial muscle cell,0.9686170674
-0.449,0.074,Branchial muscle cell,0.9686170674
-0.378,0.011,Branchial muscle cell,0.9686170674
-0.418,0.042,Branchial muscle cell,0.9686170674
-0.391,0.016,Branchial muscle cell,0.9686170674
-0.996,0.985,Branchial muscle cell,0.9686170674
-0.407,0.015,Branchial muscle cell,0.9686170674
-0.39,0.013,Branchial muscle cell,0.9686170674
-0.38,0.081,Branchial muscle cell,0.9686170674
-0.413,0.07,Branchial muscle cell,0.9686170674
-0.362,0.019,Branchial muscle cell,0.9686170674
-0.388,0.026,Branchial muscle cell,0.9686170674
-0.306,0.037,Branchial muscle cell,0.9686170674
-0.457,0.019,Branchial muscle cell,0.9686170674
-0.31,0.058,Branchial muscle cell,0.9686170674
-0.672,0.237,Branchial muscle cell,0.9686170674
-0.292,0.014,Branchial muscle cell,0.9686170674
-0.581,0.094,Branchial muscle cell,0.9686170674
-0.483,0.043,Branchial muscle cell,0.9686170674
-0.555,0.079,Branchial muscle cell,0.9686170674
-0.463,0.043,Branchial muscle cell,0.9686170674
-0.325,0.021,Branchial muscle cell,0.9686170674
-0.366,0.019,Branchial muscle cell,0.9686170674
-0.446,0.084,Branchial muscle cell,0.9686170674
-0.478,0.035,Branchial muscle cell,0.9686170674
-0.506,0.049,Branchial muscle cell,0.9686170674
-0.344,0.064,Branchial muscle cell,0.9686170674
-0.349,0.046,Branchial muscle cell,0.9686170674
-0.975,0.893,Branchial muscle cell,0.9686170674
-0.306,0.044,Branchial muscle cell,0.9686170674
-0.433,0.025,Branchial muscle cell,0.9686170674
-0.434,0.02,Branchial muscle cell,0.9686170674
-0.989,0.93,Branchial muscle cell,0.9686170674
-0.97,0.28,Ionocyte,0.2452712692
-0.827,0.21,Ionocyte,0.2452712692
-0.412,0.16,Ionocyte,0.2452712692
-0.999,0.56,Ionocyte,0.2452712692
-0.61,0.2,Ionocyte,0.2452712692
-0.637,0.294,Ionocyte,0.2452712692
-0.556,0.239,Ionocyte,0.2452712692
-0.597,0.224,Ionocyte,0.2452712692
-0.555,0.153,Ionocyte,0.2452712692
-0.685,0.282,Ionocyte,0.2452712692
-0.795,0.376,Ionocyte,0.2452712692
-0.289,0.142,Ionocyte,0.2452712692
-0.677,0.332,Ionocyte,0.2452712692
-0.809,0.692,Ionocyte,0.2452712692
-0.919,0.601,Ionocyte,0.2452712692
-0.979,0.901,Ionocyte,0.2452712692
-0.376,0.201,Ionocyte,0.2452712692
-0.276,0.175,Ionocyte,0.2452712692
-0.95,0.719,Ionocyte,0.2452712692
-0.587,0.26,Ionocyte,0.2452712692
-0.594,0.292,Ionocyte,0.2452712692
-0.741,0.457,Ionocyte,0.2452712692
-0.944,0.71,Ionocyte,0.2452712692
-0.827,0.55,Ionocyte,0.2452712692
-0.868,0.581,Ionocyte,0.2452712692
-0.798,0.487,Ionocyte,0.2452712692
-0.328,0.191,Ionocyte,0.2452712692
-0.379,0.196,Ionocyte,0.2452712692
-0.458,0.26,Ionocyte,0.2452712692
-0.493,0.273,Ionocyte,0.2452712692
-0.973,0.789,Ionocyte,0.2452712692
-0.728,0.44,Ionocyte,0.2452712692
-0.344,0.204,Ionocyte,0.2452712692
-1,0.866,Ionocyte,0.2452712692
-0.839,0.577,Ionocyte,0.2452712692
-0.662,0.366,Ionocyte,0.2452712692
-0.998,0.97,Ionocyte,0.2452712692
-0.337,0.21,Ionocyte,0.2452712692
-0.844,0.58,Ionocyte,0.2452712692
-0.936,0.729,Ionocyte,0.2452712692
-0.956,0.767,Ionocyte,0.2452712692
-0.988,0.844,Ionocyte,0.2452712692
-0.641,0.43,Ionocyte,0.2452712692
-0.993,0.823,Ionocyte,0.2452712692
-0.815,0.544,Ionocyte,0.2452712692
-0.899,0.66,Ionocyte,0.2452712692
-1,0.987,Ionocyte,0.2452712692
-0.999,0.957,Ionocyte,0.2452712692
-0.992,0.838,Ionocyte,0.2452712692
-0.549,0.356,Ionocyte,0.2452712692
-0.752,0.441,Ionocyte,0.2452712692
-0.882,0.644,Ionocyte,0.2452712692
-0.455,0.286,Ionocyte,0.2452712692
-0.359,0.241,Ionocyte,0.2452712692
-0.488,0.278,Ionocyte,0.2452712692
-0.814,0.562,Ionocyte,0.2452712692
-0.462,0.303,Ionocyte,0.2452712692
-0.9,0.684,Ionocyte,0.2452712692
-0.689,0.468,Ionocyte,0.2452712692
-0.422,0.28,Ionocyte,0.2452712692
-0.294,0.193,Ionocyte,0.2452712692
-0.309,0.21,Ionocyte,0.2452712692
-0.838,0.591,Ionocyte,0.2452712692
-0.888,0.674,Ionocyte,0.2452712692
-0.323,0.244,Ionocyte,0.2452712692
-0.385,0.228,Ionocyte,0.2452712692
-0.757,0.566,Ionocyte,0.2452712692
-0.773,0.562,Ionocyte,0.2452712692
-0.413,0.293,Ionocyte,0.2452712692
-0.767,0.551,Ionocyte,0.2452712692
-1,0.999,Ionocyte,0.2452712692
-0.445,0.282,Ionocyte,0.2452712692
-0.637,0.438,Ionocyte,0.2452712692
-0.292,0.218,Ionocyte,0.2452712692
-0.442,0.247,Ionocyte,0.2452712692
-0.431,0.302,Ionocyte,0.2452712692
-1,1,Ionocyte,0.2452712692
-1,0.998,Ionocyte,0.2452712692
-0.273,0.23,Ionocyte,0.2452712692
-0.396,0.286,Ionocyte,0.2452712692
-0.358,0.254,Ionocyte,0.2452712692
-0.607,0.413,Ionocyte,0.2452712692
-0.341,0.28,Ionocyte,0.2452712692
-0.353,0.262,Ionocyte,0.2452712692
-0.778,0.677,Ionocyte,0.2452712692
-0.263,0.164,Ionocyte,0.2452712692
-0.279,0.231,Ionocyte,0.2452712692
-0.363,0.338,Ionocyte,0.2452712692
-0.289,0.27,Ionocyte,0.2452712692
-0.277,0.273,Ionocyte,0.2452712692
-0.407,0.335,Ionocyte,0.2452712692
-0.823,0.573,Ionocyte,0.2452712692
-0.253,0.215,Ionocyte,0.2452712692
-0.304,0.279,Ionocyte,0.2452712692
-0.997,0.415,vH ionocyte,0.2846008636
-0.927,0.255,vH ionocyte,0.2846008636
-0.825,0.176,vH ionocyte,0.2846008636
-0.867,0.202,vH ionocyte,0.2846008636
-0.93,0.248,vH ionocyte,0.2846008636
-0.857,0.199,vH ionocyte,0.2846008636
-0.695,0.164,vH ionocyte,0.2846008636
-0.904,0.259,vH ionocyte,0.2846008636
-0.857,0.25,vH ionocyte,0.2846008636
-0.631,0.169,vH ionocyte,0.2846008636
-0.667,0.149,vH ionocyte,0.2846008636
-0.735,0.193,vH ionocyte,0.2846008636
-0.746,0.241,vH ionocyte,0.2846008636
-0.622,0.134,vH ionocyte,0.2846008636
-0.664,0.184,vH ionocyte,0.2846008636
-0.792,0.233,vH ionocyte,0.2846008636
-0.755,0.171,vH ionocyte,0.2846008636
-0.588,0.169,vH ionocyte,0.2846008636
-0.524,0.169,vH ionocyte,0.2846008636
-0.553,0.165,vH ionocyte,0.2846008636
-0.998,0.567,vH ionocyte,0.2846008636
-0.55,0.152,vH ionocyte,0.2846008636
-0.853,0.419,vH ionocyte,0.2846008636
-0.456,0.1,vH ionocyte,0.2846008636
-0.509,0.175,vH ionocyte,0.2846008636
-0.811,0.33,vH ionocyte,0.2846008636
-0.995,0.721,vH ionocyte,0.2846008636
-0.598,0.231,vH ionocyte,0.2846008636
-0.843,0.36,vH ionocyte,0.2846008636
-0.509,0.154,vH ionocyte,0.2846008636
-0.527,0.171,vH ionocyte,0.2846008636
-0.975,0.573,vH ionocyte,0.2846008636
-0.971,0.58,vH ionocyte,0.2846008636
-0.498,0.168,vH ionocyte,0.2846008636
-0.457,0.183,vH ionocyte,0.2846008636
-0.69,0.297,vH ionocyte,0.2846008636
-0.529,0.196,vH ionocyte,0.2846008636
-0.431,0.116,vH ionocyte,0.2846008636
-0.693,0.288,vH ionocyte,0.2846008636
-0.873,0.454,vH ionocyte,0.2846008636
-0.416,0.127,vH ionocyte,0.2846008636
-0.952,0.558,vH ionocyte,0.2846008636
-0.654,0.238,vH ionocyte,0.2846008636
-0.648,0.192,vH ionocyte,0.2846008636
-0.907,0.486,vH ionocyte,0.2846008636
-0.935,0.579,vH ionocyte,0.2846008636
-0.857,0.428,vH ionocyte,0.2846008636
-0.409,0.144,vH ionocyte,0.2846008636
-0.484,0.19,vH ionocyte,0.2846008636
-0.983,0.672,vH ionocyte,0.2846008636
-0.647,0.268,vH ionocyte,0.2846008636
-0.935,0.542,vH ionocyte,0.2846008636
-0.392,0.112,vH ionocyte,0.2846008636
-0.685,0.276,vH ionocyte,0.2846008636
-0.436,0.147,vH ionocyte,0.2846008636
-0.44,0.185,vH ionocyte,0.2846008636
-0.988,0.729,vH ionocyte,0.2846008636
-0.341,0.124,vH ionocyte,0.2846008636
-0.865,0.397,vH ionocyte,0.2846008636
-0.986,0.711,vH ionocyte,0.2846008636
-0.574,0.292,vH ionocyte,0.2846008636
-0.577,0.22,vH ionocyte,0.2846008636
-0.381,0.126,vH ionocyte,0.2846008636
-0.536,0.245,vH ionocyte,0.2846008636
-0.978,0.643,vH ionocyte,0.2846008636
-0.86,0.462,vH ionocyte,0.2846008636
-0.429,0.155,vH ionocyte,0.2846008636
-0.623,0.283,vH ionocyte,0.2846008636
-0.969,0.603,vH ionocyte,0.2846008636
-0.597,0.267,vH ionocyte,0.2846008636
-0.735,0.348,vH ionocyte,0.2846008636
-0.915,0.547,vH ionocyte,0.2846008636
-0.918,0.56,vH ionocyte,0.2846008636
-0.374,0.144,vH ionocyte,0.2846008636
-0.981,0.659,vH ionocyte,0.2846008636
-0.859,0.438,vH ionocyte,0.2846008636
-0.946,0.589,vH ionocyte,0.2846008636
-0.358,0.174,vH ionocyte,0.2846008636
-1,0.971,vH ionocyte,0.2846008636
-0.605,0.272,vH ionocyte,0.2846008636
-0.819,0.382,vH ionocyte,0.2846008636
-0.51,0.224,vH ionocyte,0.2846008636
-0.642,0.295,vH ionocyte,0.2846008636
-0.991,0.768,vH ionocyte,0.2846008636
-0.316,0.137,vH ionocyte,0.2846008636
-0.335,0.115,vH ionocyte,0.2846008636
-0.443,0.206,vH ionocyte,0.2846008636
-0.412,0.157,vH ionocyte,0.2846008636
-0.961,0.684,vH ionocyte,0.2846008636
-0.922,0.549,vH ionocyte,0.2846008636
-0.309,0.146,vH ionocyte,0.2846008636
-0.591,0.276,vH ionocyte,0.2846008636
-0.598,0.28,vH ionocyte,0.2846008636
-0.437,0.173,vH ionocyte,0.2846008636
-0.496,0.235,vH ionocyte,0.2846008636
-0.693,0.319,vH ionocyte,0.2846008636
-0.318,0.074,vH ionocyte,0.2846008636
-0.955,0.569,vH ionocyte,0.2846008636
-0.609,0.297,vH ionocyte,0.2846008636
-0.465,0.221,vH ionocyte,0.2846008636
-0.439,0.21,vH ionocyte,0.2846008636
-0.636,0.292,vH ionocyte,0.2846008636
-0.394,0.155,vH ionocyte,0.2846008636
-0.375,0.175,vH ionocyte,0.2846008636
-0.295,0.153,vH ionocyte,0.2846008636
-0.412,0.206,vH ionocyte,0.2846008636
-0.42,0.212,vH ionocyte,0.2846008636
-0.256,0.093,vH ionocyte,0.2846008636
-0.991,0.791,vH ionocyte,0.2846008636
-0.307,0.12,vH ionocyte,0.2846008636
-0.386,0.193,vH ionocyte,0.2846008636
-0.366,0.153,vH ionocyte,0.2846008636
-0.485,0.261,vH ionocyte,0.2846008636
-0.437,0.26,vH ionocyte,0.2846008636
-0.386,0.204,vH ionocyte,0.2846008636
-0.326,0.176,vH ionocyte,0.2846008636
-0.464,0.166,vH ionocyte,0.2846008636
-0.403,0.198,vH ionocyte,0.2846008636
-0.326,0.135,vH ionocyte,0.2846008636
-0.378,0.224,vH ionocyte,0.2846008636
-0.31,0.194,vH ionocyte,0.2846008636
-0.464,0.226,vH ionocyte,0.2846008636
-0.403,0.203,vH ionocyte,0.2846008636
-0.332,0.218,vH ionocyte,0.2846008636
-0.479,0.24,vH ionocyte,0.2846008636
-1,0.987,vH ionocyte,0.2846008636
-0.513,0.31,vH ionocyte,0.2846008636
-0.538,0.266,vH ionocyte,0.2846008636
-0.786,0.518,vH ionocyte,0.2846008636
-0.284,0.157,vH ionocyte,0.2846008636
-0.464,0.238,vH ionocyte,0.2846008636
-0.529,0.298,vH ionocyte,0.2846008636
-0.417,0.216,vH ionocyte,0.2846008636
-0.777,0.445,vH ionocyte,0.2846008636
-0.313,0.177,vH ionocyte,0.2846008636
-0.338,0.193,vH ionocyte,0.2846008636
-0.998,0.869,vH ionocyte,0.2846008636
-0.457,0.264,vH ionocyte,0.2846008636
-0.324,0.161,vH ionocyte,0.2846008636
-0.301,0.198,vH ionocyte,0.2846008636
-1,0.958,vH ionocyte,0.2846008636
-0.47,0.333,vH ionocyte,0.2846008636
-0.45,0.293,vH ionocyte,0.2846008636
-0.778,0.512,vH ionocyte,0.2846008636
-0.984,0.841,vH ionocyte,0.2846008636
-0.296,0.176,vH ionocyte,0.2846008636
-0.422,0.252,vH ionocyte,0.2846008636
-0.988,0.827,vH ionocyte,0.2846008636
-0.344,0.236,vH ionocyte,0.2846008636
-0.264,0.192,vH ionocyte,0.2846008636
-0.484,0.315,vH ionocyte,0.2846008636
-0.327,0.162,vH ionocyte,0.2846008636
-1,1,vH ionocyte,0.2846008636
-0.634,0.415,vH ionocyte,0.2846008636
-0.439,0.262,vH ionocyte,0.2846008636
-1,0.998,vH ionocyte,0.2846008636
-0.278,0.179,vH ionocyte,0.2846008636
-0.347,0.263,vH ionocyte,0.2846008636
-1,0.999,vH ionocyte,0.2846008636
-0.78,0.565,vH ionocyte,0.2846008636
-0.972,0.847,vH ionocyte,0.2846008636
-0.29,0.185,vH ionocyte,0.2846008636
-0.352,0.259,vH ionocyte,0.2846008636
-0.991,0.385,Filament ionocyte,0.2924398412
-0.629,0.075,Filament ionocyte,0.2924398412
-0.535,0.137,Filament ionocyte,0.2924398412
-0.706,0.131,Filament ionocyte,0.2924398412
-0.619,0.122,Filament ionocyte,0.2924398412
-0.943,0.499,Filament ionocyte,0.2924398412
-0.46,0.138,Filament ionocyte,0.2924398412
-0.635,0.183,Filament ionocyte,0.2924398412
-0.412,0.087,Filament ionocyte,0.2924398412
-0.428,0.11,Filament ionocyte,0.2924398412
-0.33,0.13,Filament ionocyte,0.2924398412
-0.633,0.295,Filament ionocyte,0.2924398412
-0.412,0.147,Filament ionocyte,0.2924398412
-0.79,0.387,Filament ionocyte,0.2924398412
-0.661,0.302,Filament ionocyte,0.2924398412
-0.465,0.227,Filament ionocyte,0.2924398412
-0.813,0.445,Filament ionocyte,0.2924398412
-0.373,0.192,Filament ionocyte,0.2924398412
-0.451,0.218,Filament ionocyte,0.2924398412
-0.713,0.429,Filament ionocyte,0.2924398412
-0.497,0.275,Filament ionocyte,0.2924398412
-0.553,0.281,Filament ionocyte,0.2924398412
-0.954,0.573,Filament ionocyte,0.2924398412
-0.531,0.271,Filament ionocyte,0.2924398412
-0.415,0.193,Filament ionocyte,0.2924398412
-0.444,0.255,Filament ionocyte,0.2924398412
-0.918,0.717,Filament ionocyte,0.2924398412
-0.508,0.298,Filament ionocyte,0.2924398412
-0.478,0.283,Filament ionocyte,0.2924398412
-0.533,0.303,Filament ionocyte,0.2924398412
-0.688,0.435,Filament ionocyte,0.2924398412
-0.597,0.345,Filament ionocyte,0.2924398412
-1,0.958,Filament ionocyte,0.2924398412
-0.412,0.217,Filament ionocyte,0.2924398412
-0.977,0.848,Filament ionocyte,0.2924398412
-0.419,0.263,Filament ionocyte,0.2924398412
-0.504,0.291,Filament ionocyte,0.2924398412
-0.31,0.188,Filament ionocyte,0.2924398412
-0.998,0.971,Filament ionocyte,0.2924398412
-0.264,0.126,Filament ionocyte,0.2924398412
-0.348,0.205,Filament ionocyte,0.2924398412
-0.752,0.558,Filament ionocyte,0.2924398412
-0.41,0.226,Filament ionocyte,0.2924398412
-1,1,Filament ionocyte,0.2924398412
-0.827,0.59,Filament ionocyte,0.2924398412
-1,0.999,Filament ionocyte,0.2924398412
-0.389,0.172,Filament ionocyte,0.2924398412
-0.362,0.234,Filament ionocyte,0.2924398412
-0.312,0.153,Filament ionocyte,0.2924398412
-0.984,0.842,Filament ionocyte,0.2924398412
-0.381,0.214,Filament ionocyte,0.2924398412
-0.364,0.227,Filament ionocyte,0.2924398412
-0.367,0.216,Filament ionocyte,0.2924398412
-0.725,0.499,Filament ionocyte,0.2924398412
-0.906,0.727,Filament ionocyte,0.2924398412
-0.97,0.829,Filament ionocyte,0.2924398412
-1,0.987,Filament ionocyte,0.2924398412
-0.26,0.203,Filament ionocyte,0.2924398412
-0.847,0.682,Filament ionocyte,0.2924398412
-0.396,0.255,Filament ionocyte,0.2924398412
-1,0.998,Filament ionocyte,0.2924398412
-0.774,0.553,Filament ionocyte,0.2924398412
-0.781,0.586,Filament ionocyte,0.2924398412
-0.759,0.571,Filament ionocyte,0.2924398412
-0.684,0.45,Filament ionocyte,0.2924398412
-0.312,0.21,Filament ionocyte,0.2924398412
-0.775,0.59,Filament ionocyte,0.2924398412
-0.595,0.376,Filament ionocyte,0.2924398412
-0.848,0.612,Filament ionocyte,0.2924398412
-0.904,0.735,Filament ionocyte,0.2924398412
-0.977,0.871,Filament ionocyte,0.2924398412
-0.291,0.186,Filament ionocyte,0.2924398412
-0.287,0.172,Filament ionocyte,0.2924398412
-0.446,0.29,Filament ionocyte,0.2924398412
-0.804,0.654,Filament ionocyte,0.2924398412
-0.332,0.204,Filament ionocyte,0.2924398412
-0.406,0.279,Filament ionocyte,0.2924398412
-0.389,0.263,Filament ionocyte,0.2924398412
-0.889,0.691,Filament ionocyte,0.2924398412
-0.444,0.315,Filament ionocyte,0.2924398412
-0.645,0.469,Filament ionocyte,0.2924398412
-0.927,0.796,Filament ionocyte,0.2924398412
-0.278,0.184,Filament ionocyte,0.2924398412
-0.333,0.247,Filament ionocyte,0.2924398412
-0.251,0.183,Filament ionocyte,0.2924398412
-0.266,0.169,Filament ionocyte,0.2924398412
-0.918,0.774,Filament ionocyte,0.2924398412
-0.645,0.476,Filament ionocyte,0.2924398412
-0.87,0.691,Filament ionocyte,0.2924398412
-0.31,0.219,Filament ionocyte,0.2924398412
-0.62,0.417,Filament ionocyte,0.2924398412
-0.599,0.438,Filament ionocyte,0.2924398412
-0.415,0.264,Filament ionocyte,0.2924398412
-0.841,0.669,Filament ionocyte,0.2924398412
-0.765,0.601,Filament ionocyte,0.2924398412
-0.467,0.317,Filament ionocyte,0.2924398412
-0.289,0.165,Filament ionocyte,0.2924398412
-0.733,0.561,Filament ionocyte,0.2924398412
-0.276,0.191,Filament ionocyte,0.2924398412
-0.374,0.29,Filament ionocyte,0.2924398412
-0.398,0.254,Filament ionocyte,0.2924398412
-0.276,0.214,Filament ionocyte,0.2924398412
-0.396,0.268,Filament ionocyte,0.2924398412
-0.262,0.196,Filament ionocyte,0.2924398412
-0.415,0.274,Filament ionocyte,0.2924398412
-0.28,0.166,Filament ionocyte,0.2924398412
-0.462,0.321,Filament ionocyte,0.2924398412
-0.28,0.188,Filament ionocyte,0.2924398412
-0.269,0.206,Filament ionocyte,0.2924398412
-0.581,0.445,Filament ionocyte,0.2924398412
-0.398,0.285,Filament ionocyte,0.2924398412
-0.485,0.364,Filament ionocyte,0.2924398412
-0.333,0.235,Filament ionocyte,0.2924398412
-0.39,0.31,Filament ionocyte,0.2924398412
-0.344,0.211,Filament ionocyte,0.2924398412
-0.314,0.246,Filament ionocyte,0.2924398412
-0.28,0.216,Filament ionocyte,0.2924398412
-0.253,0.166,Filament ionocyte,0.2924398412
-0.299,0.231,Filament ionocyte,0.2924398412
-0.419,0.306,Filament ionocyte,0.2924398412
-0.742,0.583,Filament ionocyte,0.2924398412
-0.855,0.403,NaK ionocyte,0.189321706
-0.474,0.206,NaK ionocyte,0.189321706
-0.304,0.164,NaK ionocyte,0.189321706
-0.331,0.209,NaK ionocyte,0.189321706
-0.251,0.136,NaK ionocyte,0.189321706
-0.377,0.237,NaK ionocyte,0.189321706
-0.277,0.187,NaK ionocyte,0.189321706
-0.47,0.307,NaK ionocyte,0.189321706
-0.671,0.432,NaK ionocyte,0.189321706
-0.306,0.23,NaK ionocyte,0.189321706
-0.801,0.57,NaK ionocyte,0.189321706
-0.259,0.198,NaK ionocyte,0.189321706
-0.778,0.594,NaK ionocyte,0.189321706
-0.884,0.582,NaK ionocyte,0.189321706
-0.267,0.197,NaK ionocyte,0.189321706
-0.42,0.317,NaK ionocyte,0.189321706
-0.87,0.597,NaK ionocyte,0.189321706
-0.402,0.255,NaK ionocyte,0.189321706
-0.988,0.793,NaK ionocyte,0.189321706
-0.625,0.444,NaK ionocyte,0.189321706
-0.282,0.231,NaK ionocyte,0.189321706
-0.901,0.65,NaK ionocyte,0.189321706
-0.793,0.559,NaK ionocyte,0.189321706
-0.969,0.725,NaK ionocyte,0.189321706
-0.948,0.716,NaK ionocyte,0.189321706
-0.377,0.27,NaK ionocyte,0.189321706
-0.381,0.29,NaK ionocyte,0.189321706
-0.397,0.286,NaK ionocyte,0.189321706
-0.954,0.734,NaK ionocyte,0.189321706
-0.863,0.589,NaK ionocyte,0.189321706
-0.868,0.728,NaK ionocyte,0.189321706
-0.632,0.47,NaK ionocyte,0.189321706
-0.764,0.558,NaK ionocyte,0.189321706
-0.259,0.184,NaK ionocyte,0.189321706
-0.799,0.553,NaK ionocyte,0.189321706
-0.783,0.57,NaK ionocyte,0.189321706
-0.331,0.271,NaK ionocyte,0.189321706
-0.897,0.667,NaK ionocyte,0.189321706
-0.358,0.281,NaK ionocyte,0.189321706
-0.395,0.293,NaK ionocyte,0.189321706
-0.282,0.232,NaK ionocyte,0.189321706
-0.714,0.5,NaK ionocyte,0.189321706
-0.296,0.223,NaK ionocyte,0.189321706
-0.567,0.485,NaK ionocyte,0.189321706
-0.66,0.476,NaK ionocyte,0.189321706
-0.872,0.612,NaK ionocyte,0.189321706
-0.896,0.68,NaK ionocyte,0.189321706
-0.522,0.381,NaK ionocyte,0.189321706
-0.4,0.31,NaK ionocyte,0.189321706
-0.449,0.366,NaK ionocyte,0.189321706
-0.774,0.591,NaK ionocyte,0.189321706
-0.398,0.307,NaK ionocyte,0.189321706
-0.876,0.691,NaK ionocyte,0.189321706
-0.94,0.773,NaK ionocyte,0.189321706
-0.65,0.533,NaK ionocyte,0.189321706
-0.791,0.179,Lamella ionocyte,0.3159562382
-0.797,0.176,Lamella ionocyte,0.3159562382
-0.9,0.235,Lamella ionocyte,0.3159562382
-0.869,0.259,Lamella ionocyte,0.3159562382
-0.598,0.134,Lamella ionocyte,0.3159562382
-0.832,0.284,Lamella ionocyte,0.3159562382
-0.553,0.114,Lamella ionocyte,0.3159562382
-0.926,0.425,Lamella ionocyte,0.3159562382
-0.477,0.103,Lamella ionocyte,0.3159562382
-0.674,0.252,Lamella ionocyte,0.3159562382
-0.486,0.18,Lamella ionocyte,0.3159562382
-0.666,0.242,Lamella ionocyte,0.3159562382
-0.682,0.218,Lamella ionocyte,0.3159562382
-0.57,0.207,Lamella ionocyte,0.3159562382
-0.646,0.278,Lamella ionocyte,0.3159562382
-0.611,0.287,Lamella ionocyte,0.3159562382
-0.342,0.076,Lamella ionocyte,0.3159562382
-0.363,0.177,Lamella ionocyte,0.3159562382
-0.416,0.167,Lamella ionocyte,0.3159562382
-0.381,0.144,Lamella ionocyte,0.3159562382
-0.703,0.301,Lamella ionocyte,0.3159562382
-0.588,0.298,Lamella ionocyte,0.3159562382
-0.799,0.41,Lamella ionocyte,0.3159562382
-0.52,0.222,Lamella ionocyte,0.3159562382
-0.422,0.205,Lamella ionocyte,0.3159562382
-0.408,0.189,Lamella ionocyte,0.3159562382
-0.271,0.092,Lamella ionocyte,0.3159562382
-0.377,0.153,Lamella ionocyte,0.3159562382
-0.805,0.521,Lamella ionocyte,0.3159562382
-0.441,0.231,Lamella ionocyte,0.3159562382
-0.459,0.212,Lamella ionocyte,0.3159562382
-0.992,0.828,Lamella ionocyte,0.3159562382
-0.553,0.287,Lamella ionocyte,0.3159562382
-0.984,0.573,Lamella ionocyte,0.3159562382
-0.439,0.201,Lamella ionocyte,0.3159562382
-0.99,0.843,Lamella ionocyte,0.3159562382
-0.359,0.165,Lamella ionocyte,0.3159562382
-0.516,0.26,Lamella ionocyte,0.3159562382
-0.996,0.848,Lamella ionocyte,0.3159562382
-0.326,0.167,Lamella ionocyte,0.3159562382
-0.318,0.181,Lamella ionocyte,0.3159562382
-0.996,0.87,Lamella ionocyte,0.3159562382
-0.434,0.243,Lamella ionocyte,0.3159562382
-0.998,0.958,Lamella ionocyte,0.3159562382
-0.451,0.26,Lamella ionocyte,0.3159562382
-0.961,0.689,Lamella ionocyte,0.3159562382
-0.537,0.281,Lamella ionocyte,0.3159562382
-0.342,0.2,Lamella ionocyte,0.3159562382
-0.277,0.187,Lamella ionocyte,0.3159562382
-1,0.987,Lamella ionocyte,0.3159562382
-0.305,0.119,Lamella ionocyte,0.3159562382
-0.5,0.305,Lamella ionocyte,0.3159562382
-0.971,0.828,Lamella ionocyte,0.3159562382
-0.266,0.141,Lamella ionocyte,0.3159562382
-0.428,0.171,Lamella ionocyte,0.3159562382
-0.406,0.209,Lamella ionocyte,0.3159562382
-0.93,0.715,Lamella ionocyte,0.3159562382
-0.33,0.18,Lamella ionocyte,0.3159562382
-0.383,0.236,Lamella ionocyte,0.3159562382
-0.264,0.154,Lamella ionocyte,0.3159562382
-0.99,0.903,Lamella ionocyte,0.3159562382
-0.885,0.577,Lamella ionocyte,0.3159562382
-1,0.998,Lamella ionocyte,0.3159562382
-1,1,Lamella ionocyte,0.3159562382
-0.443,0.295,Lamella ionocyte,0.3159562382
-1,0.999,Lamella ionocyte,0.3159562382
-0.957,0.824,Lamella ionocyte,0.3159562382
-0.348,0.204,Lamella ionocyte,0.3159562382
-0.254,0.156,Lamella ionocyte,0.3159562382
-0.305,0.164,Lamella ionocyte,0.3159562382
-0.998,0.971,Lamella ionocyte,0.3159562382
-0.289,0.19,Lamella ionocyte,0.3159562382
-0.266,0.197,Lamella ionocyte,0.3159562382
-0.316,0.189,Lamella ionocyte,0.3159562382
-0.689,0.519,Lamella ionocyte,0.3159562382
-0.312,0.187,Lamella ionocyte,0.3159562382
-0.65,0.455,Lamella ionocyte,0.3159562382
-0.281,0.184,Lamella ionocyte,0.3159562382
-0.412,0.278,Lamella ionocyte,0.3159562382
-0.412,0.275,Lamella ionocyte,0.3159562382
-0.369,0.319,Lamella ionocyte,0.3159562382
-0.299,0.2,Lamella ionocyte,0.3159562382
-0.543,0.38,Lamella ionocyte,0.3159562382
-0.299,0.165,Lamella ionocyte,0.3159562382
-0.465,0.318,Lamella ionocyte,0.3159562382
-0.793,0.616,Lamella ionocyte,0.3159562382
-0.393,0.307,Lamella ionocyte,0.3159562382
-0.605,0.397,Lamella ionocyte,0.3159562382
-0.359,0.246,Lamella ionocyte,0.3159562382
-0.74,0.589,Lamella ionocyte,0.3159562382
-0.502,0.35,Lamella ionocyte,0.3159562382
-0.467,0.334,Lamella ionocyte,0.3159562382
-0.879,0.776,Lamella ionocyte,0.3159562382
-0.387,0.284,Lamella ionocyte,0.3159562382
-0.369,0.297,Lamella ionocyte,0.3159562382
-0.262,0.167,Lamella ionocyte,0.3159562382
-0.771,0.673,Lamella ionocyte,0.3159562382
-0.787,0.685,Lamella ionocyte,0.3159562382
-0.996,0.958,Lamella ionocyte,0.3159562382
-0.285,0.213,Lamella ionocyte,0.3159562382
-0.662,0.596,Lamella ionocyte,0.3159562382
-0.289,0.23,Lamella ionocyte,0.3159562382
-0.863,0.73,Lamella ionocyte,0.3159562382
-0.338,0.271,Lamella ionocyte,0.3159562382
-0.551,0.474,Lamella ionocyte,0.3159562382
-0.863,0.738,Lamella ionocyte,0.3159562382
-0.301,0.247,Lamella ionocyte,0.3159562382
-0.293,0.225,Lamella ionocyte,0.3159562382
-0.318,0.236,Lamella ionocyte,0.3159562382
-0.596,0.506,Lamella ionocyte,0.3159562382
-0.434,0.351,Lamella ionocyte,0.3159562382
-0.406,0.368,Lamella ionocyte,0.3159562382
-0.985,0.904,Mt_rich cell,0.3004934197
-0.882,0.693,Mt_rich cell,0.3004934197
-0.969,0.849,Mt_rich cell,0.3004934197
-0.945,0.831,Mt_rich cell,0.3004934197
-0.954,0.845,Mt_rich cell,0.3004934197
-1,0.958,Mt_rich cell,0.3004934197
-0.959,0.873,Mt_rich cell,0.3004934197
-1,0.998,Mt_rich cell,0.3004934197
-1,0.999,Mt_rich cell,0.3004934197
-0.546,0.422,Mt_rich cell,0.3004934197
-1,0.987,Mt_rich cell,0.3004934197
-1,1,Mt_rich cell,0.3004934197
-0.51,0.161,Immunocyte_tppp high,0.1715704648
-0.284,0.114,Immunocyte_tppp high,0.1715704648
-0.409,0.122,Immunocyte_tppp high,0.1715704648
-0.3,0.072,Immunocyte_tppp high,0.1715704648
-0.547,0.154,Immunocyte_tppp high,0.1715704648
-0.324,0.117,Immunocyte_tppp high,0.1715704648
-0.532,0.108,Immunocyte_tppp high,0.1715704648
-0.357,0.141,Immunocyte_tppp high,0.1715704648
-0.267,0.071,Immunocyte_tppp high,0.1715704648
-0.42,0.115,Immunocyte_tppp high,0.1715704648
-0.293,0.091,Immunocyte_tppp high,0.1715704648
-0.284,0.125,Immunocyte_tppp high,0.1715704648
-0.477,0.169,Immunocyte_tppp high,0.1715704648
-0.409,0.11,Immunocyte_tppp high,0.1715704648
-0.422,0.148,Immunocyte_tppp high,0.1715704648
-0.945,0.696,Immunocyte_tppp high,0.1715704648
-0.315,0.124,Immunocyte_tppp high,0.1715704648
-0.383,0.057,Immunocyte_tppp high,0.1715704648
-0.422,0.153,Immunocyte_tppp high,0.1715704648
-0.28,0.097,Immunocyte_tppp high,0.1715704648
-0.346,0.217,Immunocyte_tppp high,0.1715704648
-0.291,0.09,Immunocyte_tppp high,0.1715704648
-0.271,0.101,Immunocyte_tppp high,0.1715704648
-0.4,0.197,Immunocyte_tppp high,0.1715704648
-0.267,0.137,Immunocyte_tppp high,0.1715704648
-0.302,0.244,Immunocyte_tppp high,0.1715704648
-0.276,0.122,Immunocyte_tppp high,0.1715704648
-0.302,0.225,Immunocyte_tppp high,0.1715704648
-0.398,0.201,Immunocyte_tppp high,0.1715704648
-0.269,0.161,Immunocyte_tppp high,0.1715704648
-0.311,0.187,Immunocyte_tppp high,0.1715704648
-0.361,0.264,Immunocyte_tppp high,0.1715704648
-0.383,0.256,Immunocyte_tppp high,0.1715704648
-0.497,0.322,Immunocyte_tppp high,0.1715704648
-0.827,0.73,Immunocyte_tppp high,0.1715704648
-0.814,0.835,Immunocyte_tppp high,0.1715704648
-0.392,0.302,Immunocyte_tppp high,0.1715704648
-0.337,0.235,Immunocyte_tppp high,0.1715704648
-0.335,0.259,Immunocyte_tppp high,0.1715704648
-0.488,0.404,Immunocyte_tppp high,0.1715704648
-0.265,0.207,Immunocyte_tppp high,0.1715704648
-0.313,0.247,Immunocyte_tppp high,0.1715704648
-0.28,0.22,Immunocyte_tppp high,0.1715704648
-0.293,0.195,Immunocyte_tppp high,0.1715704648
-0.42,0.343,Immunocyte_tppp high,0.1715704648
-0.271,0.191,Immunocyte_tppp high,0.1715704648
-0.26,0.175,Immunocyte_tppp high,0.1715704648
-0.698,0.598,Immunocyte_tppp high,0.1715704648
-0.733,0.659,Immunocyte_tppp high,0.1715704648
-0.927,0.287,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.896,0.163,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.736,0.167,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.723,0.084,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.702,0.16,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.603,0.111,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.995,0.577,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.561,0.169,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.42,0.116,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.347,0.075,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.796,0.285,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.457,0.102,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.53,0.206,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.799,0.308,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.465,0.075,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.736,0.334,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.423,0.128,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.705,0.37,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.475,0.115,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.807,0.291,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.358,0.085,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.462,0.144,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.89,0.449,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.386,0.103,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.465,0.154,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.407,0.11,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.363,0.09,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.358,0.134,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.324,0.083,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.582,0.211,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.467,0.217,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.674,0.316,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.342,0.117,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.305,0.076,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.342,0.123,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.637,0.248,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.258,0.104,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.449,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.405,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.402,0.112,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.582,0.261,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.666,0.329,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.316,0.139,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.287,0.098,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.94,0.717,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.266,0.096,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.948,0.692,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.559,0.285,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.527,0.261,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.279,0.107,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.54,0.241,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.256,0.118,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.389,0.195,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.292,0.11,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.969,0.825,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.606,0.32,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.251,0.132,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.285,0.141,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.253,0.082,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.295,0.137,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.966,0.905,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.423,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.269,0.164,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.426,0.212,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.251,0.107,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.436,0.262,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.483,0.221,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.3,0.184,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.444,0.245,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.251,0.03,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.277,0.074,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.488,0.247,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.974,0.829,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.298,0.187,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.345,0.173,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.352,0.199,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.462,0.287,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.966,0.85,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.272,0.127,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.371,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.548,0.293,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.564,0.311,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.358,0.179,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.392,0.173,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.381,0.2,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.595,0.419,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.721,0.527,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.992,0.869,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.449,0.275,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.413,0.32,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.418,0.264,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.956,0.832,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.987,0.959,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.624,0.42,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.321,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.543,0.306,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.791,0.584,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.352,0.211,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.932,0.846,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.969,0.873,Pharyngeal arch cell_ponzr3 high,0.4571695871
-1,0.999,Pharyngeal arch cell_ponzr3 high,0.4571695871
-1,0.998,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.258,0.129,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.324,0.127,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.279,0.141,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.342,0.177,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.394,0.297,Pharyngeal arch cell_ponzr3 high,0.4571695871
-1,1,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.287,0.189,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.548,0.397,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.277,0.168,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.251,0.132,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.995,0.988,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.316,0.149,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.407,0.257,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.418,0.233,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.277,0.185,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.329,0.196,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.671,0.534,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.496,0.35,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.366,0.304,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.264,0.161,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.46,0.306,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.507,0.305,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.47,0.279,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.616,0.494,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.251,0.165,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.363,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.298,0.193,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.731,0.533,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.446,0.258,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.311,0.219,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.76,0.619,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.355,0.265,Pharyngeal arch cell_ponzr3 high,0.4571695871
-1,0.958,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.431,0.337,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.407,0.264,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.279,0.156,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.815,0.711,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.527,0.443,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.256,0.12,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.256,0.09,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.862,0.781,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.264,0.163,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.587,0.4,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.554,0.381,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.337,0.202,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.7,0.603,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.439,0.232,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.47,0.277,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.266,0.148,Pharyngeal arch cell_ponzr3 high,0.4571695871
-0.842,0.076,NCC ionocyte,0.3664355322
-0.831,0.111,NCC ionocyte,0.3664355322
-0.825,0.091,NCC ionocyte,0.3664355322
-0.588,0.051,NCC ionocyte,0.3664355322
-0.763,0.155,NCC ionocyte,0.3664355322
-0.881,0.219,NCC ionocyte,0.3664355322
-0.983,0.319,NCC ionocyte,0.3664355322
-0.864,0.241,NCC ionocyte,0.3664355322
-0.65,0.128,NCC ionocyte,0.3664355322
-0.989,0.571,NCC ionocyte,0.3664355322
-0.847,0.347,NCC ionocyte,0.3664355322
-0.661,0.145,NCC ionocyte,0.3664355322
-0.469,0.089,NCC ionocyte,0.3664355322
-0.847,0.229,NCC ionocyte,0.3664355322
-0.847,0.306,NCC ionocyte,0.3664355322
-0.644,0.131,NCC ionocyte,0.3664355322
-0.751,0.247,NCC ionocyte,0.3664355322
-0.723,0.21,NCC ionocyte,0.3664355322
-0.48,0.122,NCC ionocyte,0.3664355322
-0.87,0.285,NCC ionocyte,0.3664355322
-0.384,0.092,NCC ionocyte,0.3664355322
-0.655,0.202,NCC ionocyte,0.3664355322
-1,0.585,NCC ionocyte,0.3664355322
-0.774,0.173,NCC ionocyte,0.3664355322
-0.667,0.173,NCC ionocyte,0.3664355322
-0.757,0.253,NCC ionocyte,0.3664355322
-0.718,0.206,NCC ionocyte,0.3664355322
-0.667,0.145,NCC ionocyte,0.3664355322
-0.644,0.227,NCC ionocyte,0.3664355322
-0.989,0.732,NCC ionocyte,0.3664355322
-0.859,0.439,NCC ionocyte,0.3664355322
-0.763,0.281,NCC ionocyte,0.3664355322
-0.695,0.265,NCC ionocyte,0.3664355322
-0.881,0.504,NCC ionocyte,0.3664355322
-0.525,0.182,NCC ionocyte,0.3664355322
-0.825,0.294,NCC ionocyte,0.3664355322
-0.791,0.317,NCC ionocyte,0.3664355322
-0.633,0.213,NCC ionocyte,0.3664355322
-0.712,0.263,NCC ionocyte,0.3664355322
-0.469,0.141,NCC ionocyte,0.3664355322
-0.39,0.113,NCC ionocyte,0.3664355322
-0.322,0.023,NCC ionocyte,0.3664355322
-0.599,0.128,NCC ionocyte,0.3664355322
-0.921,0.574,NCC ionocyte,0.3664355322
-0.492,0.079,NCC ionocyte,0.3664355322
-0.689,0.268,NCC ionocyte,0.3664355322
-0.723,0.242,NCC ionocyte,0.3664355322
-0.921,0.619,NCC ionocyte,0.3664355322
-0.452,0.127,NCC ionocyte,0.3664355322
-0.808,0.303,NCC ionocyte,0.3664355322
-0.927,0.686,NCC ionocyte,0.3664355322
-0.972,0.723,NCC ionocyte,0.3664355322
-0.881,0.562,NCC ionocyte,0.3664355322
-0.582,0.16,NCC ionocyte,0.3664355322
-0.932,0.591,NCC ionocyte,0.3664355322
-0.977,0.585,NCC ionocyte,0.3664355322
-0.559,0.178,NCC ionocyte,0.3664355322
-0.678,0.287,NCC ionocyte,0.3664355322
-0.819,0.38,NCC ionocyte,0.3664355322
-1,0.874,NCC ionocyte,0.3664355322
-0.661,0.226,NCC ionocyte,0.3664355322
-0.508,0.25,NCC ionocyte,0.3664355322
-0.881,0.575,NCC ionocyte,0.3664355322
-0.751,0.261,NCC ionocyte,0.3664355322
-0.571,0.194,NCC ionocyte,0.3664355322
-0.384,0.117,NCC ionocyte,0.3664355322
-0.571,0.245,NCC ionocyte,0.3664355322
-0.994,0.799,NCC ionocyte,0.3664355322
-0.492,0.223,NCC ionocyte,0.3664355322
-0.497,0.098,NCC ionocyte,0.3664355322
-1,0.988,NCC ionocyte,0.3664355322
-0.384,0.155,NCC ionocyte,0.3664355322
-0.644,0.194,NCC ionocyte,0.3664355322
-0.898,0.658,NCC ionocyte,0.3664355322
-0.339,0.096,NCC ionocyte,0.3664355322
-0.966,0.695,NCC ionocyte,0.3664355322
-1,0.847,NCC ionocyte,0.3664355322
-0.881,0.595,NCC ionocyte,0.3664355322
-0.864,0.605,NCC ionocyte,0.3664355322
-0.701,0.287,NCC ionocyte,0.3664355322
-0.96,0.74,NCC ionocyte,0.3664355322
-0.915,0.558,NCC ionocyte,0.3664355322
-0.932,0.673,NCC ionocyte,0.3664355322
-0.401,0.083,NCC ionocyte,0.3664355322
-0.689,0.308,NCC ionocyte,0.3664355322
-0.61,0.198,NCC ionocyte,0.3664355322
-0.61,0.306,NCC ionocyte,0.3664355322
-0.887,0.457,NCC ionocyte,0.3664355322
-1,0.998,NCC ionocyte,0.3664355322
-0.972,0.778,NCC ionocyte,0.3664355322
-0.531,0.1,NCC ionocyte,0.3664355322
-1,0.833,NCC ionocyte,0.3664355322
-0.847,0.565,NCC ionocyte,0.3664355322
-0.599,0.148,NCC ionocyte,0.3664355322
-0.571,0.305,NCC ionocyte,0.3664355322
-0.808,0.456,NCC ionocyte,0.3664355322
-0.701,0.278,NCC ionocyte,0.3664355322
-0.819,0.479,NCC ionocyte,0.3664355322
-0.429,0.079,NCC ionocyte,0.3664355322
-0.695,0.232,NCC ionocyte,0.3664355322
-0.492,0.133,NCC ionocyte,0.3664355322
-0.52,0.197,NCC ionocyte,0.3664355322
-0.503,0.208,NCC ionocyte,0.3664355322
-0.638,0.246,NCC ionocyte,0.3664355322
-1,0.959,NCC ionocyte,0.3664355322
-0.994,0.852,NCC ionocyte,0.3664355322
-0.548,0.127,NCC ionocyte,0.3664355322
-1,0.972,NCC ionocyte,0.3664355322
-0.48,0.165,NCC ionocyte,0.3664355322
-0.407,0.131,NCC ionocyte,0.3664355322
-1,1,NCC ionocyte,0.3664355322
-0.825,0.446,NCC ionocyte,0.3664355322
-0.384,0.07,NCC ionocyte,0.3664355322
-1,0.905,NCC ionocyte,0.3664355322
-0.757,0.301,NCC ionocyte,0.3664355322
-0.774,0.351,NCC ionocyte,0.3664355322
-0.588,0.276,NCC ionocyte,0.3664355322
-0.367,0.125,NCC ionocyte,0.3664355322
-0.469,0.16,NCC ionocyte,0.3664355322
-0.599,0.211,NCC ionocyte,0.3664355322
-0.593,0.189,NCC ionocyte,0.3664355322
-0.559,0.168,NCC ionocyte,0.3664355322
-0.537,0.154,NCC ionocyte,0.3664355322
-0.853,0.598,NCC ionocyte,0.3664355322
-0.78,0.421,NCC ionocyte,0.3664355322
-1,0.999,NCC ionocyte,0.3664355322
-0.525,0.133,NCC ionocyte,0.3664355322
-0.429,0.179,NCC ionocyte,0.3664355322
-0.695,0.313,NCC ionocyte,0.3664355322
-0.554,0.178,NCC ionocyte,0.3664355322
-0.819,0.472,NCC ionocyte,0.3664355322
-0.446,0.181,NCC ionocyte,0.3664355322
-0.565,0.286,NCC ionocyte,0.3664355322
-0.571,0.146,NCC ionocyte,0.3664355322
-0.492,0.053,NCC ionocyte,0.3664355322
-0.588,0.293,NCC ionocyte,0.3664355322
-0.559,0.187,NCC ionocyte,0.3664355322
-0.542,0.219,NCC ionocyte,0.3664355322
-0.384,0.121,NCC ionocyte,0.3664355322
-0.593,0.158,NCC ionocyte,0.3664355322
-0.582,0.182,NCC ionocyte,0.3664355322
-0.463,0.077,NCC ionocyte,0.3664355322
-0.537,0.134,NCC ionocyte,0.3664355322
-0.52,0.024,NCC ionocyte,0.3664355322
-0.52,0.126,NCC ionocyte,0.3664355322
-0.339,0.109,NCC ionocyte,0.3664355322
-0.333,0.094,NCC ionocyte,0.3664355322
-0.944,0.721,NCC ionocyte,0.3664355322
-0.531,0.265,NCC ionocyte,0.3664355322
-0.633,0.256,NCC ionocyte,0.3664355322
-0.734,0.364,NCC ionocyte,0.3664355322
-0.395,0.16,NCC ionocyte,0.3664355322
-0.661,0.335,NCC ionocyte,0.3664355322
-0.463,0.166,NCC ionocyte,0.3664355322
-0.621,0.208,NCC ionocyte,0.3664355322
-0.367,0.149,NCC ionocyte,0.3664355322
-0.989,0.828,NCC ionocyte,0.3664355322
-0.548,0.198,NCC ionocyte,0.3664355322
-0.927,0.697,NCC ionocyte,0.3664355322
-0.599,0.399,NCC ionocyte,0.3664355322
-0.429,0.16,NCC ionocyte,0.3664355322
-0.339,0.122,NCC ionocyte,0.3664355322
-0.616,0.262,NCC ionocyte,0.3664355322
-0.407,0.157,NCC ionocyte,0.3664355322
-0.458,0.059,NCC ionocyte,0.3664355322
-0.571,0.186,NCC ionocyte,0.3664355322
-0.571,0.176,NCC ionocyte,0.3664355322
-0.695,0.277,NCC ionocyte,0.3664355322
-0.548,0.165,NCC ionocyte,0.3664355322
-0.667,0.296,NCC ionocyte,0.3664355322
-0.469,0.125,NCC ionocyte,0.3664355322
-0.497,0.147,NCC ionocyte,0.3664355322
-0.497,0.122,NCC ionocyte,0.3664355322
-0.424,0.223,NCC ionocyte,0.3664355322
-0.356,0.095,NCC ionocyte,0.3664355322
-0.401,0.162,NCC ionocyte,0.3664355322
-0.588,0.2,NCC ionocyte,0.3664355322
-0.458,0.128,NCC ionocyte,0.3664355322
-0.537,0.27,NCC ionocyte,0.3664355322
-0.87,0.681,NCC ionocyte,0.3664355322
-0.475,0.112,NCC ionocyte,0.3664355322
-0.424,0.143,NCC ionocyte,0.3664355322
-0.373,0.145,NCC ionocyte,0.3664355322
-0.588,0.21,NCC ionocyte,0.3664355322
-0.972,0.832,NCC ionocyte,0.3664355322
-0.503,0.16,NCC ionocyte,0.3664355322
-0.61,0.293,NCC ionocyte,0.3664355322
-0.475,0.124,NCC ionocyte,0.3664355322
-0.514,0.14,NCC ionocyte,0.3664355322
-0.446,0.126,NCC ionocyte,0.3664355322
-0.475,0.238,NCC ionocyte,0.3664355322
-0.52,0.107,NCC ionocyte,0.3664355322
-0.542,0.164,NCC ionocyte,0.3664355322
-0.492,0.17,NCC ionocyte,0.3664355322
-0.373,0.108,NCC ionocyte,0.3664355322
-0.88,0.133,Stromal cell,0.9650862069
-0.59,0.123,Stromal cell,0.9650862069
-0.807,0.139,Stromal cell,0.9650862069
-0.59,0.103,Stromal cell,0.9650862069
-0.627,0.113,Stromal cell,0.9650862069
-0.783,0.105,Stromal cell,0.9650862069
-0.554,0.078,Stromal cell,0.9650862069
-0.627,0.068,Stromal cell,0.9650862069
-0.771,0.103,Stromal cell,0.9650862069
-0.687,0.118,Stromal cell,0.9650862069
-0.566,0.056,Stromal cell,0.9650862069
-0.554,0.072,Stromal cell,0.9650862069
-0.554,0.083,Stromal cell,0.9650862069
-0.59,0.07,Stromal cell,0.9650862069
-0.711,0.113,Stromal cell,0.9650862069
-0.53,0.102,Stromal cell,0.9650862069
-0.759,0.196,Stromal cell,0.9650862069
-0.554,0.072,Stromal cell,0.9650862069
-0.904,0.232,Stromal cell,0.9650862069
-0.614,0.06,Stromal cell,0.9650862069
-0.554,0.078,Stromal cell,0.9650862069
-0.554,0.065,Stromal cell,0.9650862069
-0.614,0.135,Stromal cell,0.9650862069
-0.434,0.05,Stromal cell,0.9650862069
-0.59,0.099,Stromal cell,0.9650862069
-0.506,0.096,Stromal cell,0.9650862069
-0.482,0.065,Stromal cell,0.9650862069
-0.651,0.042,Stromal cell,0.9650862069
-0.578,0.014,Stromal cell,0.9650862069
-0.663,0.101,Stromal cell,0.9650862069
-0.277,0.034,Stromal cell,0.9650862069
-0.53,0.036,Stromal cell,0.9650862069
-0.446,0.119,Stromal cell,0.9650862069
-0.47,0.107,Stromal cell,0.9650862069
-0.373,0.062,Stromal cell,0.9650862069
-0.47,0.06,Stromal cell,0.9650862069
-0.494,0.156,Stromal cell,0.9650862069
-0.59,0.025,Stromal cell,0.9650862069
-0.602,0.119,Stromal cell,0.9650862069
-0.482,0.044,Stromal cell,0.9650862069
-0.747,0.326,Stromal cell,0.9650862069
-0.47,0.138,Stromal cell,0.9650862069
-0.554,0.141,Stromal cell,0.9650862069
-0.639,0.144,Stromal cell,0.9650862069
-0.663,0.209,Stromal cell,0.9650862069
-0.554,0.084,Stromal cell,0.9650862069
-0.386,0.03,Stromal cell,0.9650862069
-0.675,0.147,Stromal cell,0.9650862069
-0.253,0.069,Stromal cell,0.9650862069
-0.398,0.079,Stromal cell,0.9650862069
-0.434,0.045,Stromal cell,0.9650862069
-0.41,0.113,Stromal cell,0.9650862069
-0.518,0.045,Stromal cell,0.9650862069
-0.639,0.101,Stromal cell,0.9650862069
-0.506,0.104,Stromal cell,0.9650862069
-0.41,0.068,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.602,0.141,Stromal cell,0.9650862069
-0.602,0.061,Stromal cell,0.9650862069
-0.518,0.048,Stromal cell,0.9650862069
-0.422,0.025,Stromal cell,0.9650862069
-0.53,0.065,Stromal cell,0.9650862069
-0.542,0.031,Stromal cell,0.9650862069
-0.518,0.066,Stromal cell,0.9650862069
-0.446,0.127,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.602,0.061,Stromal cell,0.9650862069
-0.627,0.053,Stromal cell,0.9650862069
-0.578,0.072,Stromal cell,0.9650862069
-0.675,0.108,Stromal cell,0.9650862069
-0.482,0.086,Stromal cell,0.9650862069
-0.494,0.134,Stromal cell,0.9650862069
-0.434,0.013,Stromal cell,0.9650862069
-0.614,0.087,Stromal cell,0.9650862069
-0.506,0.06,Stromal cell,0.9650862069
-0.554,0.037,Stromal cell,0.9650862069
-0.41,0.061,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.398,0.085,Stromal cell,0.9650862069
-0.663,0.18,Stromal cell,0.9650862069
-0.386,0.056,Stromal cell,0.9650862069
-0.494,0.166,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.687,0.145,Stromal cell,0.9650862069
-0.458,0.123,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-0.506,0.039,Stromal cell,0.9650862069
-0.554,0.123,Stromal cell,0.9650862069
-0.627,0.079,Stromal cell,0.9650862069
-0.554,0.084,Stromal cell,0.9650862069
-0.386,0.065,Stromal cell,0.9650862069
-0.59,0.086,Stromal cell,0.9650862069
-0.554,0.076,Stromal cell,0.9650862069
-0.663,0.236,Stromal cell,0.9650862069
-0.59,0.118,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.398,0.097,Stromal cell,0.9650862069
-0.542,0.038,Stromal cell,0.9650862069
-0.639,0.135,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-0.373,0.094,Stromal cell,0.9650862069
-0.554,0.145,Stromal cell,0.9650862069
-0.253,0.038,Stromal cell,0.9650862069
-0.41,0.093,Stromal cell,0.9650862069
-0.554,0.051,Stromal cell,0.9650862069
-0.386,0.054,Stromal cell,0.9650862069
-0.542,0.051,Stromal cell,0.9650862069
-0.554,0.019,Stromal cell,0.9650862069
-0.446,0.061,Stromal cell,0.9650862069
-0.518,0.115,Stromal cell,0.9650862069
-0.542,0.018,Stromal cell,0.9650862069
-0.434,0.046,Stromal cell,0.9650862069
-0.337,0.023,Stromal cell,0.9650862069
-0.434,0.077,Stromal cell,0.9650862069
-0.41,0.096,Stromal cell,0.9650862069
-0.542,0.028,Stromal cell,0.9650862069
-0.614,0.096,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-0.614,0.143,Stromal cell,0.9650862069
-0.554,0.063,Stromal cell,0.9650862069
-0.578,0.014,Stromal cell,0.9650862069
-0.518,0.093,Stromal cell,0.9650862069
-0.53,0.059,Stromal cell,0.9650862069
-0.602,0.084,Stromal cell,0.9650862069
-0.518,0.054,Stromal cell,0.9650862069
-0.373,0.004,Stromal cell,0.9650862069
-0.578,0.179,Stromal cell,0.9650862069
-0.578,0.051,Stromal cell,0.9650862069
-0.542,0.042,Stromal cell,0.9650862069
-0.434,0.075,Stromal cell,0.9650862069
-0.53,0.065,Stromal cell,0.9650862069
-0.386,0.138,Stromal cell,0.9650862069
-0.41,0.116,Stromal cell,0.9650862069
-0.602,0.095,Stromal cell,0.9650862069
-0.518,0.035,Stromal cell,0.9650862069
-0.554,0.092,Stromal cell,0.9650862069
-0.47,0.039,Stromal cell,0.9650862069
-0.434,0.086,Stromal cell,0.9650862069
-0.59,0.057,Stromal cell,0.9650862069
-0.518,0.041,Stromal cell,0.9650862069
-0.386,0.052,Stromal cell,0.9650862069
-0.506,0.002,Stromal cell,0.9650862069
-0.59,0.065,Stromal cell,0.9650862069
-0.542,0.024,Stromal cell,0.9650862069
-0.47,0.126,Stromal cell,0.9650862069
-0.518,0.074,Stromal cell,0.9650862069
-0.614,0.143,Stromal cell,0.9650862069
-0.386,0.104,Stromal cell,0.9650862069
-0.542,0.014,Stromal cell,0.9650862069
-0.578,0.052,Stromal cell,0.9650862069
-0.578,0.055,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-0.651,0.175,Stromal cell,0.9650862069
-0.506,0.11,Stromal cell,0.9650862069
-0.542,0.105,Stromal cell,0.9650862069
-0.53,0.035,Stromal cell,0.9650862069
-0.41,0.071,Stromal cell,0.9650862069
-0.482,0.073,Stromal cell,0.9650862069
-0.253,0.005,Stromal cell,0.9650862069
-0.53,0.035,Stromal cell,0.9650862069
-0.265,0.047,Stromal cell,0.9650862069
-0.566,0.053,Stromal cell,0.9650862069
-0.446,0.094,Stromal cell,0.9650862069
-0.566,0.015,Stromal cell,0.9650862069
-0.542,0.097,Stromal cell,0.9650862069
-0.518,0.08,Stromal cell,0.9650862069
-0.542,0.095,Stromal cell,0.9650862069
-0.59,0.121,Stromal cell,0.9650862069
-0.675,0.28,Stromal cell,0.9650862069
-0.554,0.057,Stromal cell,0.9650862069
-0.807,0.631,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-1,0.936,Stromal cell,0.9650862069
-0.47,0.112,Stromal cell,0.9650862069
-0.566,0.128,Stromal cell,0.9650862069
-0.614,0.096,Stromal cell,0.9650862069
-0.47,0.07,Stromal cell,0.9650862069
-0.566,0.162,Stromal cell,0.9650862069
-0.566,0.069,Stromal cell,0.9650862069
-0.542,0.056,Stromal cell,0.9650862069
-0.554,0.056,Stromal cell,0.9650862069
-0.434,0.078,Stromal cell,0.9650862069
-0.59,0.08,Stromal cell,0.9650862069
-0.398,0.123,Stromal cell,0.9650862069
-0.265,0.18,Stromal cell,0.9650862069
-0.53,0.035,Stromal cell,0.9650862069
-0.53,0.035,Stromal cell,0.9650862069
-0.53,0.073,Stromal cell,0.9650862069
-0.253,0.076,Stromal cell,0.9650862069
-0.542,0.056,Stromal cell,0.9650862069
-0.518,0.035,Stromal cell,0.9650862069
-0.494,0.127,Stromal cell,0.9650862069
-0.53,0.024,Stromal cell,0.9650862069
-0.59,0.045,Stromal cell,0.9650862069
-0.59,0.039,Stromal cell,0.9650862069
+pct.1,pct.2,cell type,coeff,gene
+0.514,0.305,Proliferating cell,0.08974364217,anxa1c
+0.954,0.678,Proliferating cell,0.08974364217,hmgn2
+0.718,0.43,Proliferating cell,0.08974364217,hmgb2b
+0.284,0.168,Proliferating cell,0.08974364217,anxa1b
+0.873,0.608,Proliferating cell,0.08974364217,hmgb2a
+0.612,0.369,Proliferating cell,0.08974364217,hmga1a
+0.83,0.544,Proliferating cell,0.08974364217,h2afvb
+0.837,0.634,Proliferating cell,0.08974364217,si:dkey-112a7.5
+0.363,0.237,Proliferating cell,0.08974364217,zgc:163083
+0.278,0.209,Proliferating cell,0.08974364217,kpna2
+0.286,0.208,Proliferating cell,0.08974364217,mad2l1
+0.519,0.325,Proliferating cell,0.08974364217,tubb2b
+0.257,0.179,Proliferating cell,0.08974364217,cdk1
+0.466,0.412,Proliferating cell,0.08974364217,CT573383.1
+0.309,0.234,Proliferating cell,0.08974364217,rrm2
+0.545,0.343,Proliferating cell,0.08974364217,tuba8l
+0.324,0.242,Proliferating cell,0.08974364217,stmn1a
+0.451,0.319,Proliferating cell,0.08974364217,pcna
+0.283,0.216,Proliferating cell,0.08974364217,egr3
+0.261,0.199,Proliferating cell,0.08974364217,zgc:194627
+0.773,0.609,Proliferating cell,0.08974364217,gstp1
+0.34,0.243,Proliferating cell,0.08974364217,h2afx
+0.5,0.384,Proliferating cell,0.08974364217,her9
+0.372,0.266,Proliferating cell,0.08974364217,her6
+0.404,0.303,Proliferating cell,0.08974364217,s100v1
+0.337,0.252,Proliferating cell,0.08974364217,mgst1.2
+0.274,0.17,Proliferating cell,0.08974364217,prdx1
+0.283,0.212,Proliferating cell,0.08974364217,sult6b1
+0.256,0.185,Proliferating cell,0.08974364217,si:dkey-102m7.3
+0.652,0.51,Proliferating cell,0.08974364217,cldnb
+0.921,0.808,Proliferating cell,0.08974364217,nme2b.1
+0.998,0.965,Proliferating cell,0.08974364217,rplp1
+0.998,0.965,Proliferating cell,0.08974364217,FO704736.1
+0.994,0.937,Proliferating cell,0.08974364217,rps12
+1,0.994,Proliferating cell,0.08974364217,RPL41
+0.99,0.918,Proliferating cell,0.08974364217,rplp2l
+0.285,0.233,Proliferating cell,0.08974364217,hspd1
+0.496,0.407,Proliferating cell,0.08974364217,krt17
+0.426,0.369,Proliferating cell,0.08974364217,icn2
+0.306,0.288,Proliferating cell,0.08974364217,si:ch211-213d14.2
+0.369,0.323,Proliferating cell,0.08974364217,ch25h
+0.973,0.884,Proliferating cell,0.08974364217,rpl7
+0.984,0.92,Proliferating cell,0.08974364217,rplp0
+0.351,0.321,Proliferating cell,0.08974364217,mid1ip1a
+0.767,0.701,Proliferating cell,0.08974364217,phlda2
+0.537,0.3,Immunocyte,0.22879082,ccl19a.2
+0.841,0.425,Immunocyte,0.22879082,ccl25b
+0.88,0.464,Immunocyte,0.22879082,krt5
+0.542,0.282,Immunocyte,0.22879082,cxcl8b.1
+0.423,0.241,Immunocyte,0.22879082,ccl19b
+0.311,0.189,Immunocyte,0.22879082,zgc:158701
+0.722,0.402,Immunocyte,0.22879082,cxcl18b
+0.372,0.165,Immunocyte,0.22879082,cxcl8a
+0.806,0.41,Immunocyte,0.22879082,krt91
+0.575,0.322,Immunocyte,0.22879082,cxcl18a.1
+0.976,0.854,Immunocyte,0.22879082,CR318588.1
+0.804,0.49,Immunocyte,0.22879082,CR318588.3
+0.564,0.322,Immunocyte,0.22879082,aqp3a
+0.353,0.186,Immunocyte,0.22879082,cxcl12a
+0.843,0.553,Immunocyte,0.22879082,s100a10b
+0.614,0.389,Immunocyte,0.22879082,krt17
+0.95,0.74,Immunocyte,0.22879082,cfd
+1,0.952,Immunocyte,0.22879082,CR318588.4
+0.327,0.205,Immunocyte,0.22879082,si:ch211-198c19.3
+0.292,0.213,Immunocyte,0.22879082,cldna
+0.416,0.304,Immunocyte,0.22879082,CR762483.1
+0.407,0.273,Immunocyte,0.22879082,epgn
+0.342,0.282,Immunocyte,0.22879082,si:ch211-213d14.2
+0.442,0.306,Immunocyte,0.22879082,si:ch73-335l21.4
+0.315,0.261,Immunocyte,0.22879082,ms4a17a.2
+0.66,0.468,Immunocyte,0.22879082,krt4
+0.309,0.234,Immunocyte,0.22879082,lygl1
+0.27,0.236,Immunocyte,0.22879082,gstm.3
+0.998,0.952,Immunocyte,0.22879082,tmsb1
+0.377,0.324,Immunocyte,0.22879082,ch25h
+0.611,0.525,Immunocyte,0.22879082,cldnb
+0.305,0.197,Immunocyte,0.22879082,tcima
+0.567,0.519,Immunocyte,0.22879082,rhbg
+0.379,0.34,Immunocyte,0.22879082,pcna
+0.989,0.926,Immunocyte,0.22879082,rps2
+0.254,0.216,Immunocyte,0.22879082,ptgs2a
+0.847,0.771,Immunocyte,0.22879082,epcam
+0.995,0.964,Immunocyte,0.22879082,eef1a1l1
+0.454,0.371,Immunocyte,0.22879082,tuba8l
+0.296,0.262,Immunocyte,0.22879082,pmaip1
+0.446,0.4,Immunocyte,0.22879082,her9
+0.264,0.248,Immunocyte,0.22879082,marcksl1a
+0.982,0.923,Immunocyte,0.22879082,rplp0
+0.999,0.966,Immunocyte,0.22879082,FO704736.1
+0.637,0.601,Immunocyte,0.22879082,zgc:153911
+0.323,0.306,Immunocyte,0.22879082,si:dkey-248g15.3
+0.989,0.922,Immunocyte,0.22879082,rplp2l
+0.998,0.967,Immunocyte,0.22879082,rplp1
+0.988,0.941,Immunocyte,0.22879082,rps12
+0.963,0.89,Immunocyte,0.22879082,rpl7
+0.967,0.547,Pharyngeal arch cell,0.6169551214,apoeb
+0.767,0.314,Pharyngeal arch cell,0.6169551214,cldni
+0.494,0.196,Pharyngeal arch cell,0.6169551214,sparc
+0.516,0.276,Pharyngeal arch cell,0.6169551214,si:dkey-248g15.3
+0.463,0.236,Pharyngeal arch cell,0.6169551214,cxl34b.11
+0.312,0.228,Pharyngeal arch cell,0.6169551214,ccl20b
+0.517,0.254,Pharyngeal arch cell,0.6169551214,si:ch1073-406l10.2
+0.472,0.267,Pharyngeal arch cell,0.6169551214,epgn
+0.517,0.3,Pharyngeal arch cell,0.6169551214,crip1
+0.296,0.163,Pharyngeal arch cell,0.6169551214,cldn1
+0.973,0.743,Pharyngeal arch cell,0.6169551214,cfd
+0.319,0.229,Pharyngeal arch cell,0.6169551214,gstm.3
+0.339,0.236,Pharyngeal arch cell,0.6169551214,marcksl1a
+0.808,0.566,Pharyngeal arch cell,0.6169551214,s100a10b
+0.264,0.195,Pharyngeal arch cell,0.6169551214,rac2
+0.26,0.215,Pharyngeal arch cell,0.6169551214,foxq1a
+0.871,0.68,Pharyngeal arch cell,0.6169551214,pfn1
+0.372,0.241,Pharyngeal arch cell,0.6169551214,zgc:158343
+0.938,0.818,Pharyngeal arch cell,0.6169551214,cd74a
+0.336,0.228,Pharyngeal arch cell,0.6169551214,mhc1uba
+0.403,0.354,Pharyngeal arch cell,0.6169551214,aqp3a
+0.275,0.214,Pharyngeal arch cell,0.6169551214,ptgs2a
+0.926,0.815,Pharyngeal arch cell,0.6169551214,cd74b
+0.561,0.481,Pharyngeal arch cell,0.6169551214,ccl25b
+0.632,0.514,Pharyngeal arch cell,0.6169551214,krt5
+0.832,0.708,Pharyngeal arch cell,0.6169551214,mhc2dab
+0.821,0.653,Pharyngeal arch cell,0.6169551214,si:dkey-112a7.5
+0.391,0.358,Pharyngeal arch cell,0.6169551214,cxcl18a.1
+0.355,0.329,Pharyngeal arch cell,0.6169551214,ch25h
+0.391,0.317,Pharyngeal arch cell,0.6169551214,si:ch73-335l21.4
+0.585,0.525,Pharyngeal arch cell,0.6169551214,si:busm1-266f07.2
+0.524,0.527,Pharyngeal arch cell,0.6169551214,rhbg
+0.853,0.773,Pharyngeal arch cell,0.6169551214,epcam
+0.268,0.268,Pharyngeal arch cell,0.6169551214,nr4a1
+0.276,0.267,Pharyngeal arch cell,0.6169551214,pmaip1
+0.991,0.955,Pharyngeal arch cell,0.6169551214,tmsb1
+0.289,0.287,Pharyngeal arch cell,0.6169551214,her6
+0.583,0.456,Pharyngeal arch cell,0.6169551214,krt91
+0.389,0.383,Pharyngeal arch cell,0.6169551214,tuba8l
+0.927,0.098,Branchial muscle cell,0.9686170674,ucmaa
+0.897,0.076,Branchial muscle cell,0.9686170674,mia
+0.83,0.057,Branchial muscle cell,0.9686170674,itih1
+0.828,0.044,Branchial muscle cell,0.9686170674,ppp1r1c
+0.764,0.072,Branchial muscle cell,0.9686170674,fn1b
+0.686,0.035,Branchial muscle cell,0.9686170674,snorc
+0.576,0.063,Branchial muscle cell,0.9686170674,col10a1a
+0.64,0.076,Branchial muscle cell,0.9686170674,krt94
+0.731,0.138,Branchial muscle cell,0.9686170674,ptgdsb.1
+0.563,0.053,Branchial muscle cell,0.9686170674,bhmt
+0.497,0.06,Branchial muscle cell,0.9686170674,ctgfa
+0.611,0.047,Branchial muscle cell,0.9686170674,dlx5a
+0.679,0.042,Branchial muscle cell,0.9686170674,col2a1a
+0.658,0.125,Branchial muscle cell,0.9686170674,si:ch211-153b23.5
+0.777,0.155,Branchial muscle cell,0.9686170674,atp1b1a
+0.41,0.034,Branchial muscle cell,0.9686170674,pah
+0.578,0.057,Branchial muscle cell,0.9686170674,loxl4
+0.496,0.029,Branchial muscle cell,0.9686170674,zgc:171704
+0.547,0.072,Branchial muscle cell,0.9686170674,myl9a
+0.486,0.11,Branchial muscle cell,0.9686170674,cited4b
+0.637,0.036,Branchial muscle cell,0.9686170674,acta2
+0.479,0.041,Branchial muscle cell,0.9686170674,acana
+0.452,0.018,Branchial muscle cell,0.9686170674,ninj2
+0.895,0.602,Branchial muscle cell,0.9686170674,mibp2
+0.406,0.117,Branchial muscle cell,0.9686170674,cyr61
+0.585,0.043,Branchial muscle cell,0.9686170674,hapln1b
+0.711,0.184,Branchial muscle cell,0.9686170674,CR855311.1
+0.545,0.025,Branchial muscle cell,0.9686170674,col11a2
+0.499,0.065,Branchial muscle cell,0.9686170674,rbp4
+0.44,0.068,Branchial muscle cell,0.9686170674,dlx3b
+0.325,0.021,Branchial muscle cell,0.9686170674,pcolce2b
+0.508,0.18,Branchial muscle cell,0.9686170674,tcima
+0.482,0.101,Branchial muscle cell,0.9686170674,serpinh1b
+0.612,0.065,Branchial muscle cell,0.9686170674,ptgdsb.2
+0.522,0.04,Branchial muscle cell,0.9686170674,zgc:77517
+0.396,0.085,Branchial muscle cell,0.9686170674,cbx7a
+0.544,0.125,Branchial muscle cell,0.9686170674,krt15
+0.293,0.05,Branchial muscle cell,0.9686170674,npr3
+0.252,0.057,Branchial muscle cell,0.9686170674,serpine1
+0.254,0.043,Branchial muscle cell,0.9686170674,uchl1
+0.338,0.044,Branchial muscle cell,0.9686170674,irg1l
+0.352,0.076,Branchial muscle cell,0.9686170674,selenop
+0.583,0.114,Branchial muscle cell,0.9686170674,mdka
+0.642,0.089,Branchial muscle cell,0.9686170674,sesn1
+0.343,0.017,Branchial muscle cell,0.9686170674,ttc36
+0.584,0.086,Branchial muscle cell,0.9686170674,si:ch211-106h4.12
+0.786,0.437,Branchial muscle cell,0.9686170674,krt91
+0.352,0.073,Branchial muscle cell,0.9686170674,rgcc
+0.324,0.015,Branchial muscle cell,0.9686170674,col8a2
+0.8,0.463,Branchial muscle cell,0.9686170674,krt4
+0.359,0.05,Branchial muscle cell,0.9686170674,si:ch211-153b23.4
+0.38,0.082,Branchial muscle cell,0.9686170674,zgc:193505
+0.661,0.187,Branchial muscle cell,0.9686170674,sparc
+0.578,0.086,Branchial muscle cell,0.9686170674,apln
+0.302,0.012,Branchial muscle cell,0.9686170674,si:ch1073-184j22.1
+0.422,0.18,Branchial muscle cell,0.9686170674,atp1a1a.1
+0.567,0.027,Branchial muscle cell,0.9686170674,cyp26a1
+0.371,0.062,Branchial muscle cell,0.9686170674,rgs5a
+0.424,0.07,Branchial muscle cell,0.9686170674,apoa2
+0.325,0.02,Branchial muscle cell,0.9686170674,twist2
+0.306,0.154,Branchial muscle cell,0.9686170674,f3b
+0.408,0.057,Branchial muscle cell,0.9686170674,mcm10
+0.429,0.068,Branchial muscle cell,0.9686170674,si:dkey-19b23.8
+0.424,0.069,Branchial muscle cell,0.9686170674,htra1b
+0.372,0.032,Branchial muscle cell,0.9686170674,scin
+0.302,0.164,Branchial muscle cell,0.9686170674,bcl2l10
+0.283,0.086,Branchial muscle cell,0.9686170674,si:ch211-1a19.3
+0.475,0.086,Branchial muscle cell,0.9686170674,vtg1
+0.346,0.04,Branchial muscle cell,0.9686170674,ifitm1
+0.456,0.069,Branchial muscle cell,0.9686170674,si:ch211-204c21.1
+0.28,0.107,Branchial muscle cell,0.9686170674,tsc22d1
+0.449,0.074,Branchial muscle cell,0.9686170674,msmo1
+0.378,0.011,Branchial muscle cell,0.9686170674,dpt
+0.418,0.042,Branchial muscle cell,0.9686170674,apoa1b
+0.391,0.016,Branchial muscle cell,0.9686170674,vim
+0.996,0.985,Branchial muscle cell,0.9686170674,icn
+0.407,0.015,Branchial muscle cell,0.9686170674,sox10
+0.39,0.013,Branchial muscle cell,0.9686170674,f13a1b
+0.38,0.081,Branchial muscle cell,0.9686170674,arl4ab
+0.413,0.07,Branchial muscle cell,0.9686170674,ctsla
+0.362,0.019,Branchial muscle cell,0.9686170674,tmem176
+0.388,0.026,Branchial muscle cell,0.9686170674,loxl2b
+0.306,0.037,Branchial muscle cell,0.9686170674,pcolcea
+0.457,0.019,Branchial muscle cell,0.9686170674,lrp1aa
+0.31,0.058,Branchial muscle cell,0.9686170674,rasd1
+0.672,0.237,Branchial muscle cell,0.9686170674,hmgb3a
+0.292,0.014,Branchial muscle cell,0.9686170674,tnfaip6
+0.581,0.094,Branchial muscle cell,0.9686170674,gpx4a
+0.483,0.043,Branchial muscle cell,0.9686170674,zgc:194659
+0.555,0.079,Branchial muscle cell,0.9686170674,gsta.1
+0.463,0.043,Branchial muscle cell,0.9686170674,mxra8b
+0.325,0.021,Branchial muscle cell,0.9686170674,dlx2a
+0.366,0.019,Branchial muscle cell,0.9686170674,arsia
+0.446,0.084,Branchial muscle cell,0.9686170674,thbs1b
+0.478,0.035,Branchial muscle cell,0.9686170674,dlx4a
+0.506,0.049,Branchial muscle cell,0.9686170674,hif1al
+0.344,0.064,Branchial muscle cell,0.9686170674,iscub
+0.349,0.046,Branchial muscle cell,0.9686170674,plod1a
+0.975,0.893,Branchial muscle cell,0.9686170674,rpl7
+0.306,0.044,Branchial muscle cell,0.9686170674,enpp1
+0.433,0.025,Branchial muscle cell,0.9686170674,si:dkey-31g6.6
+0.434,0.02,Branchial muscle cell,0.9686170674,nid1a
+0.989,0.93,Branchial muscle cell,0.9686170674,rps2
+0.97,0.28,Ionocyte,0.2452712692,atp1a1a.2
+0.827,0.21,Ionocyte,0.2452712692,ndrg1a
+0.412,0.16,Ionocyte,0.2452712692,kcnj1a.2
+0.999,0.56,Ionocyte,0.2452712692,si:dkey-33i11.4
+0.61,0.2,Ionocyte,0.2452712692,BX000438.2
+0.637,0.294,Ionocyte,0.2452712692,cox6a2
+0.556,0.239,Ionocyte,0.2452712692,cox7a1
+0.597,0.224,Ionocyte,0.2452712692,epdl1
+0.555,0.153,Ionocyte,0.2452712692,atp1b1b
+0.685,0.282,Ionocyte,0.2452712692,ckbb
+0.795,0.376,Ionocyte,0.2452712692,ppdpfb
+0.289,0.142,Ionocyte,0.2452712692,si:ch211-160j14.2
+0.677,0.332,Ionocyte,0.2452712692,idh2
+0.809,0.692,Ionocyte,0.2452712692,NC-002333.17
+0.919,0.601,Ionocyte,0.2452712692,cycsb
+0.979,0.901,Ionocyte,0.2452712692,NC-002333.4
+0.376,0.201,Ionocyte,0.2452712692,scinla
+0.276,0.175,Ionocyte,0.2452712692,gstt1a
+0.95,0.719,Ionocyte,0.2452712692,atp5mc1
+0.587,0.26,Ionocyte,0.2452712692,cox5b2
+0.594,0.292,Ionocyte,0.2452712692,cldnh
+0.741,0.457,Ionocyte,0.2452712692,cox5ab
+0.944,0.71,Ionocyte,0.2452712692,atp5mc3b
+0.827,0.55,Ionocyte,0.2452712692,atp5mf
+0.868,0.581,Ionocyte,0.2452712692,atp5f1b
+0.798,0.487,Ionocyte,0.2452712692,atp5fa1
+0.328,0.191,Ionocyte,0.2452712692,CR356236.1
+0.379,0.196,Ionocyte,0.2452712692,ndrg3a
+0.458,0.26,Ionocyte,0.2452712692,chchd10
+0.493,0.273,Ionocyte,0.2452712692,mpc2
+0.973,0.789,Ionocyte,0.2452712692,atp5f1e
+0.728,0.44,Ionocyte,0.2452712692,slc25a3b
+0.344,0.204,Ionocyte,0.2452712692,tmx2b
+1,0.866,Ionocyte,0.2452712692,mt-nd1
+0.839,0.577,Ionocyte,0.2452712692,cox7a2a
+0.662,0.366,Ionocyte,0.2452712692,mpc1
+0.998,0.97,Ionocyte,0.2452712692,slc25a5
+0.337,0.21,Ionocyte,0.2452712692,si:ch73-31d8.2
+0.844,0.58,Ionocyte,0.2452712692,cox8a
+0.936,0.729,Ionocyte,0.2452712692,cox7b
+0.956,0.767,Ionocyte,0.2452712692,cox7c
+0.988,0.844,Ionocyte,0.2452712692,mt-nd3
+0.641,0.43,Ionocyte,0.2452712692,cox8b
+0.993,0.823,Ionocyte,0.2452712692,mt-nd4
+0.815,0.544,Ionocyte,0.2452712692,atp5f1c
+0.899,0.66,Ionocyte,0.2452712692,cox6c
+1,0.987,Ionocyte,0.2452712692,mt-atp6
+0.999,0.957,Ionocyte,0.2452712692,mt-cyb
+0.992,0.838,Ionocyte,0.2452712692,mt-nd2
+0.549,0.356,Ionocyte,0.2452712692,ndufc2
+0.752,0.441,Ionocyte,0.2452712692,si:ch211-195b11.3
+0.882,0.644,Ionocyte,0.2452712692,atp5pf
+0.455,0.286,Ionocyte,0.2452712692,uqcrc1
+0.359,0.241,Ionocyte,0.2452712692,aco2
+0.488,0.278,Ionocyte,0.2452712692,si:ch1073-190k2.1
+0.814,0.562,Ionocyte,0.2452712692,atp5pd
+0.462,0.303,Ionocyte,0.2452712692,ppifb
+0.9,0.684,Ionocyte,0.2452712692,atp5l
+0.689,0.468,Ionocyte,0.2452712692,atp5if1b
+0.422,0.28,Ionocyte,0.2452712692,pdhb
+0.294,0.193,Ionocyte,0.2452712692,foxi3b
+0.309,0.21,Ionocyte,0.2452712692,idh3b
+0.838,0.591,Ionocyte,0.2452712692,COX5B
+0.888,0.674,Ionocyte,0.2452712692,cox4i1
+0.323,0.244,Ionocyte,0.2452712692,ppil1
+0.385,0.228,Ionocyte,0.2452712692,uqcrc2b
+0.757,0.566,Ionocyte,0.2452712692,cox6a1
+0.773,0.562,Ionocyte,0.2452712692,prdx5
+0.413,0.293,Ionocyte,0.2452712692,NC-002333.7
+0.767,0.551,Ionocyte,0.2452712692,cox6b1
+1,0.999,Ionocyte,0.2452712692,mt-co3
+0.445,0.282,Ionocyte,0.2452712692,selenow2b
+0.637,0.438,Ionocyte,0.2452712692,LO018013.1
+0.292,0.218,Ionocyte,0.2452712692,pdha1a
+0.442,0.247,Ionocyte,0.2452712692,soul2
+0.431,0.302,Ionocyte,0.2452712692,prr13
+1,1,Ionocyte,0.2452712692,mt-co2
+1,0.998,Ionocyte,0.2452712692,mt-co1
+0.273,0.23,Ionocyte,0.2452712692,zgc:194246
+0.396,0.286,Ionocyte,0.2452712692,ndufs4
+0.358,0.254,Ionocyte,0.2452712692,mrpl57
+0.607,0.413,Ionocyte,0.2452712692,mt-nd5
+0.341,0.28,Ionocyte,0.2452712692,ndufa10
+0.353,0.262,Ionocyte,0.2452712692,si:ch73-359m17.5
+0.778,0.677,Ionocyte,0.2452712692,zgc:92066
+0.263,0.164,Ionocyte,0.2452712692,mt-atp8
+0.279,0.231,Ionocyte,0.2452712692,ndufs2
+0.363,0.338,Ionocyte,0.2452712692,zgc:153284
+0.289,0.27,Ionocyte,0.2452712692,si:ch211-79k12.1
+0.277,0.273,Ionocyte,0.2452712692,wdr83os
+0.407,0.335,Ionocyte,0.2452712692,zgc:152791
+0.823,0.573,Ionocyte,0.2452712692,si:dkey-247k7.2
+0.253,0.215,Ionocyte,0.2452712692,rgs5b
+0.304,0.279,Ionocyte,0.2452712692,sqstm1
+0.997,0.415,vH ionocyte,0.2846008636,atp6v0ca
+0.927,0.255,vH ionocyte,0.2846008636,atp6v1g1
+0.825,0.176,vH ionocyte,0.2846008636,atp6v1aa
+0.867,0.202,vH ionocyte,0.2846008636,atp1a1a.3
+0.93,0.248,vH ionocyte,0.2846008636,ca15a
+0.857,0.199,vH ionocyte,0.2846008636,atp6v1e1b
+0.695,0.164,vH ionocyte,0.2846008636,zgc:193726
+0.904,0.259,vH ionocyte,0.2846008636,rnaseka
+0.857,0.25,vH ionocyte,0.2846008636,cox5b2
+0.631,0.169,vH ionocyte,0.2846008636,ckmt1
+0.667,0.149,vH ionocyte,0.2846008636,atp6v0a1a
+0.735,0.193,vH ionocyte,0.2846008636,atp6ap2
+0.746,0.241,vH ionocyte,0.2846008636,si:ch73-359m17.5
+0.622,0.134,vH ionocyte,0.2846008636,atp6v1c1b
+0.664,0.184,vH ionocyte,0.2846008636,atp6v1ba
+0.792,0.233,vH ionocyte,0.2846008636,si:ch73-14h1.2
+0.755,0.171,vH ionocyte,0.2846008636,ceacam1
+0.588,0.169,vH ionocyte,0.2846008636,atp6v1h
+0.524,0.169,vH ionocyte,0.2846008636,mal2
+0.553,0.165,vH ionocyte,0.2846008636,atp6v1d
+0.998,0.567,vH ionocyte,0.2846008636,si:dkey-33i11.4
+0.55,0.152,vH ionocyte,0.2846008636,atp6ap1b
+0.853,0.419,vH ionocyte,0.2846008636,prdx2
+0.456,0.1,vH ionocyte,0.2846008636,si:dkey-192d15.2
+0.509,0.175,vH ionocyte,0.2846008636,si:dkey-188i13.6
+0.811,0.33,vH ionocyte,0.2846008636,idh2
+0.995,0.721,vH ionocyte,0.2846008636,atp5mc1
+0.598,0.231,vH ionocyte,0.2846008636,si:zfos-2070c2.1
+0.843,0.36,vH ionocyte,0.2846008636,mpc1
+0.509,0.154,vH ionocyte,0.2846008636,atp6v0d1
+0.527,0.171,vH ionocyte,0.2846008636,foxi3a
+0.975,0.573,vH ionocyte,0.2846008636,cox7a2a
+0.971,0.58,vH ionocyte,0.2846008636,atp5f1b
+0.498,0.168,vH ionocyte,0.2846008636,atp6v1f
+0.457,0.183,vH ionocyte,0.2846008636,eno1b
+0.69,0.297,vH ionocyte,0.2846008636,cox6a2
+0.529,0.196,vH ionocyte,0.2846008636,si:ch211-270g19.5
+0.431,0.116,vH ionocyte,0.2846008636,ly6m2
+0.693,0.288,vH ionocyte,0.2846008636,ponzr5
+0.873,0.454,vH ionocyte,0.2846008636,cox5ab
+0.416,0.127,vH ionocyte,0.2846008636,atp6v0b
+0.952,0.558,vH ionocyte,0.2846008636,atp5pd
+0.654,0.238,vH ionocyte,0.2846008636,soul2
+0.648,0.192,vH ionocyte,0.2846008636,rgs5b
+0.907,0.486,vH ionocyte,0.2846008636,atp5fa1
+0.935,0.579,vH ionocyte,0.2846008636,cox8a
+0.857,0.428,vH ionocyte,0.2846008636,LO018013.1
+0.409,0.144,vH ionocyte,0.2846008636,zgc:165573
+0.484,0.19,vH ionocyte,0.2846008636,cyp3c1
+0.983,0.672,vH ionocyte,0.2846008636,cox4i1
+0.647,0.268,vH ionocyte,0.2846008636,mpc2
+0.935,0.542,vH ionocyte,0.2846008636,atp5f1c
+0.392,0.112,vH ionocyte,0.2846008636,si:dkeyp-72e1.7
+0.685,0.276,vH ionocyte,0.2846008636,arg2
+0.436,0.147,vH ionocyte,0.2846008636,zgc:92249
+0.44,0.185,vH ionocyte,0.2846008636,bcat2
+0.988,0.729,vH ionocyte,0.2846008636,cox7b
+0.341,0.124,vH ionocyte,0.2846008636,etf1a
+0.865,0.397,vH ionocyte,0.2846008636,CT573383.1
+0.986,0.711,vH ionocyte,0.2846008636,atp5mc3b
+0.574,0.292,vH ionocyte,0.2846008636,si:ch211-217k17.10
+0.577,0.22,vH ionocyte,0.2846008636,uqcrc2b
+0.381,0.126,vH ionocyte,0.2846008636,gb:bc139872
+0.536,0.245,vH ionocyte,0.2846008636,cox7a1
+0.978,0.643,vH ionocyte,0.2846008636,atp5pf
+0.86,0.462,vH ionocyte,0.2846008636,atp5if1b
+0.429,0.155,vH ionocyte,0.2846008636,si:ch211-39k3.2
+0.623,0.283,vH ionocyte,0.2846008636,si:dkeyp-1h4.6
+0.969,0.603,vH ionocyte,0.2846008636,cycsb
+0.597,0.267,vH ionocyte,0.2846008636,ndufa10
+0.735,0.348,vH ionocyte,0.2846008636,ndufc2
+0.915,0.547,vH ionocyte,0.2846008636,cox6b1
+0.918,0.56,vH ionocyte,0.2846008636,cox6a1
+0.374,0.144,vH ionocyte,0.2846008636,ndufa4
+0.981,0.659,vH ionocyte,0.2846008636,cox6c
+0.859,0.438,vH ionocyte,0.2846008636,slc25a3b
+0.946,0.589,vH ionocyte,0.2846008636,COX5B
+0.358,0.174,vH ionocyte,0.2846008636,si:dkey-79f11.10
+1,0.971,vH ionocyte,0.2846008636,slc25a5
+0.605,0.272,vH ionocyte,0.2846008636,pdhb
+0.819,0.382,vH ionocyte,0.2846008636,ppdpfb
+0.51,0.224,vH ionocyte,0.2846008636,gcm2
+0.642,0.295,vH ionocyte,0.2846008636,ppifb
+0.991,0.768,vH ionocyte,0.2846008636,cox7c
+0.316,0.137,vH ionocyte,0.2846008636,ggt1l2.1
+0.335,0.115,vH ionocyte,0.2846008636,sat1b
+0.443,0.206,vH ionocyte,0.2846008636,si:ch73-31d8.2
+0.412,0.157,vH ionocyte,0.2846008636,acat1
+0.961,0.684,vH ionocyte,0.2846008636,atp5l
+0.922,0.549,vH ionocyte,0.2846008636,atp5mf
+0.309,0.146,vH ionocyte,0.2846008636,atp1a1a.5
+0.591,0.276,vH ionocyte,0.2846008636,ndufs4
+0.598,0.28,vH ionocyte,0.2846008636,uqcrc1
+0.437,0.173,vH ionocyte,0.2846008636,nqo1
+0.496,0.235,vH ionocyte,0.2846008636,aco2
+0.693,0.319,vH ionocyte,0.2846008636,zgc:152791
+0.318,0.074,vH ionocyte,0.2846008636,chp1
+0.955,0.569,vH ionocyte,0.2846008636,si:dkey-247k7.2
+0.609,0.297,vH ionocyte,0.2846008636,cldnh
+0.465,0.221,vH ionocyte,0.2846008636,ndufs2
+0.439,0.21,vH ionocyte,0.2846008636,si:dkey-33i11.9
+0.636,0.292,vH ionocyte,0.2846008636,ckbb
+0.394,0.155,vH ionocyte,0.2846008636,cnpy1
+0.375,0.175,vH ionocyte,0.2846008636,glud1b
+0.295,0.153,vH ionocyte,0.2846008636,oxct1a
+0.412,0.206,vH ionocyte,0.2846008636,idh3b
+0.42,0.212,vH ionocyte,0.2846008636,pdha1a
+0.256,0.093,vH ionocyte,0.2846008636,prkag3b
+0.991,0.791,vH ionocyte,0.2846008636,atp5f1e
+0.307,0.12,vH ionocyte,0.2846008636,rassf6
+0.386,0.193,vH ionocyte,0.2846008636,uchl3
+0.366,0.153,vH ionocyte,0.2846008636,coq9
+0.485,0.261,vH ionocyte,0.2846008636,wdr83os
+0.437,0.26,vH ionocyte,0.2846008636,zgc:194101
+0.386,0.204,vH ionocyte,0.2846008636,mccc2
+0.326,0.176,vH ionocyte,0.2846008636,apooa
+0.464,0.166,vH ionocyte,0.2846008636,atp1b1b
+0.403,0.198,vH ionocyte,0.2846008636,ndrg3a
+0.326,0.135,vH ionocyte,0.2846008636,echdc2
+0.378,0.224,vH ionocyte,0.2846008636,zgc:194246
+0.31,0.194,vH ionocyte,0.2846008636,foxi3b
+0.464,0.226,vH ionocyte,0.2846008636,CR855311.1
+0.403,0.203,vH ionocyte,0.2846008636,tmx2b
+0.332,0.218,vH ionocyte,0.2846008636,mrpl35
+0.479,0.24,vH ionocyte,0.2846008636,zgc:110339
+1,0.987,vH ionocyte,0.2846008636,mt-atp6
+0.513,0.31,vH ionocyte,0.2846008636,dusp2
+0.538,0.266,vH ionocyte,0.2846008636,sqstm1
+0.786,0.518,vH ionocyte,0.2846008636,si:busm1-266f07.2
+0.284,0.157,vH ionocyte,0.2846008636,ppip5k2
+0.464,0.238,vH ionocyte,0.2846008636,epdl1
+0.529,0.298,vH ionocyte,0.2846008636,prr13
+0.417,0.216,vH ionocyte,0.2846008636,plekhf1
+0.777,0.445,vH ionocyte,0.2846008636,si:ch211-195b11.3
+0.313,0.177,vH ionocyte,0.2846008636,rnf128a
+0.338,0.193,vH ionocyte,0.2846008636,CR356236.1
+0.998,0.869,vH ionocyte,0.2846008636,mt-nd1
+0.457,0.264,vH ionocyte,0.2846008636,chchd10
+0.324,0.161,vH ionocyte,0.2846008636,si:dkey-193p11.2
+0.301,0.198,vH ionocyte,0.2846008636,ildr1a
+1,0.958,vH ionocyte,0.2846008636,mt-cyb
+0.47,0.333,vH ionocyte,0.2846008636,zgc:153284
+0.45,0.293,vH ionocyte,0.2846008636,NC-002333.7
+0.778,0.512,vH ionocyte,0.2846008636,rhbg
+0.984,0.841,vH ionocyte,0.2846008636,mt-nd2
+0.296,0.176,vH ionocyte,0.2846008636,dlat
+0.422,0.252,vH ionocyte,0.2846008636,mrpl57
+0.988,0.827,vH ionocyte,0.2846008636,mt-nd4
+0.344,0.236,vH ionocyte,0.2846008636,glod5
+0.264,0.192,vH ionocyte,0.2846008636,CU207281.2
+0.484,0.315,vH ionocyte,0.2846008636,cldne
+0.327,0.162,vH ionocyte,0.2846008636,mt-atp8
+1,1,vH ionocyte,0.2846008636,mt-co2
+0.634,0.415,vH ionocyte,0.2846008636,mt-nd5
+0.439,0.262,vH ionocyte,0.2846008636,si:ch211-79k12.1
+1,0.998,vH ionocyte,0.2846008636,mt-co1
+0.278,0.179,vH ionocyte,0.2846008636,ehd1b
+0.347,0.263,vH ionocyte,0.2846008636,si:ch211-183d5.2
+1,0.999,vH ionocyte,0.2846008636,mt-co3
+0.78,0.565,vH ionocyte,0.2846008636,prdx5
+0.972,0.847,vH ionocyte,0.2846008636,mt-nd3
+0.29,0.185,vH ionocyte,0.2846008636,krt97
+0.352,0.259,vH ionocyte,0.2846008636,si:dkey-188i13.7
+0.991,0.385,Filament ionocyte,0.2924398412,s100a11
+0.629,0.075,Filament ionocyte,0.2924398412,zgc:194125
+0.535,0.137,Filament ionocyte,0.2924398412,pvalb8
+0.706,0.131,Filament ionocyte,0.2924398412,trpv6
+0.619,0.122,Filament ionocyte,0.2924398412,zgc:173593
+0.943,0.499,Filament ionocyte,0.2924398412,wu:fj16a03
+0.46,0.138,Filament ionocyte,0.2924398412,mt2
+0.635,0.183,Filament ionocyte,0.2924398412,atp1a1a.1
+0.412,0.087,Filament ionocyte,0.2924398412,zgc:198419
+0.428,0.11,Filament ionocyte,0.2924398412,zgc:109934
+0.33,0.13,Filament ionocyte,0.2924398412,mafbb
+0.633,0.295,Filament ionocyte,0.2924398412,ponzr5
+0.412,0.147,Filament ionocyte,0.2924398412,rcan1a
+0.79,0.387,Filament ionocyte,0.2924398412,ppdpfb
+0.661,0.302,Filament ionocyte,0.2924398412,cox6a2
+0.465,0.227,Filament ionocyte,0.2924398412,atp1a1a.3
+0.813,0.445,Filament ionocyte,0.2924398412,si:ch211-195b11.3
+0.373,0.192,Filament ionocyte,0.2924398412,CR356236.1
+0.451,0.218,Filament ionocyte,0.2924398412,BX000438.2
+0.713,0.429,Filament ionocyte,0.2924398412,prdx2
+0.497,0.275,Filament ionocyte,0.2924398412,ca15a
+0.553,0.281,Filament ionocyte,0.2924398412,rnaseka
+0.954,0.573,Filament ionocyte,0.2924398412,si:dkey-33i11.4
+0.531,0.271,Filament ionocyte,0.2924398412,cox5b2
+0.415,0.193,Filament ionocyte,0.2924398412,ceacam1
+0.444,0.255,Filament ionocyte,0.2924398412,si:ch73-14h1.2
+0.918,0.717,Filament ionocyte,0.2924398412,atp5mc3b
+0.508,0.298,Filament ionocyte,0.2924398412,si:ch211-217k17.10
+0.478,0.283,Filament ionocyte,0.2924398412,atp6v1g1
+0.533,0.303,Filament ionocyte,0.2924398412,cldnh
+0.688,0.435,Filament ionocyte,0.2924398412,atp6v0ca
+0.597,0.345,Filament ionocyte,0.2924398412,idh2
+1,0.958,Filament ionocyte,0.2924398412,mt-cyb
+0.412,0.217,Filament ionocyte,0.2924398412,plekhf1
+0.977,0.848,Filament ionocyte,0.2924398412,mt-nd3
+0.419,0.263,Filament ionocyte,0.2924398412,zgc:194101
+0.504,0.291,Filament ionocyte,0.2924398412,NC-002333.7
+0.31,0.188,Filament ionocyte,0.2924398412,zgc:193726
+0.998,0.971,Filament ionocyte,0.2924398412,slc25a5
+0.264,0.126,Filament ionocyte,0.2924398412,ly6m2
+0.348,0.205,Filament ionocyte,0.2924398412,atp6v1aa
+0.752,0.558,Filament ionocyte,0.2924398412,cox6b1
+0.41,0.226,Filament ionocyte,0.2924398412,atp6v1e1b
+1,1,Filament ionocyte,0.2924398412,mt-co2
+0.827,0.59,Filament ionocyte,0.2924398412,atp5f1b
+1,0.999,Filament ionocyte,0.2924398412,mt-co3
+0.389,0.172,Filament ionocyte,0.2924398412,atp1b1b
+0.362,0.234,Filament ionocyte,0.2924398412,gcm2
+0.312,0.153,Filament ionocyte,0.2924398412,atp6v1c1b
+0.984,0.842,Filament ionocyte,0.2924398412,mt-nd2
+0.381,0.214,Filament ionocyte,0.2924398412,atp6ap2
+0.364,0.227,Filament ionocyte,0.2924398412,mid1ip1b
+0.367,0.216,Filament ionocyte,0.2924398412,si:dkey-33i11.9
+0.725,0.499,Filament ionocyte,0.2924398412,atp5fa1
+0.906,0.727,Filament ionocyte,0.2924398412,atp5mc1
+0.97,0.829,Filament ionocyte,0.2924398412,mt-nd4
+1,0.987,Filament ionocyte,0.2924398412,mt-atp6
+0.26,0.203,Filament ionocyte,0.2924398412,si:ch211-214p16.2
+0.847,0.682,Filament ionocyte,0.2924398412,cox4i1
+0.396,0.255,Filament ionocyte,0.2924398412,cox7a1
+1,0.998,Filament ionocyte,0.2924398412,mt-co1
+0.774,0.553,Filament ionocyte,0.2924398412,atp5f1c
+0.781,0.586,Filament ionocyte,0.2924398412,cox7a2a
+0.759,0.571,Filament ionocyte,0.2924398412,atp5pd
+0.684,0.45,Filament ionocyte,0.2924398412,slc25a3b
+0.312,0.21,Filament ionocyte,0.2924398412,si:ch211-270g19.5
+0.775,0.59,Filament ionocyte,0.2924398412,cox8a
+0.595,0.376,Filament ionocyte,0.2924398412,mpc1
+0.848,0.612,Filament ionocyte,0.2924398412,cycsb
+0.904,0.735,Filament ionocyte,0.2924398412,cox7b
+0.977,0.871,Filament ionocyte,0.2924398412,mt-nd1
+0.291,0.186,Filament ionocyte,0.2924398412,foxi3a
+0.287,0.172,Filament ionocyte,0.2924398412,atp6v0a1a
+0.446,0.29,Filament ionocyte,0.2924398412,uqcrc1
+0.804,0.654,Filament ionocyte,0.2924398412,atp5pf
+0.332,0.204,Filament ionocyte,0.2924398412,atp6v1ba
+0.406,0.279,Filament ionocyte,0.2924398412,ndufa10
+0.389,0.263,Filament ionocyte,0.2924398412,si:ch73-359m17.5
+0.889,0.691,Filament ionocyte,0.2924398412,NC-002333.17
+0.444,0.315,Filament ionocyte,0.2924398412,dusp2
+0.645,0.469,Filament ionocyte,0.2924398412,cox5ab
+0.927,0.796,Filament ionocyte,0.2924398412,atp5f1e
+0.278,0.184,Filament ionocyte,0.2924398412,mal2
+0.333,0.247,Filament ionocyte,0.2924398412,si:zfos-2070c2.1
+0.251,0.183,Filament ionocyte,0.2924398412,atp6v1f
+0.266,0.169,Filament ionocyte,0.2924398412,atp6v0d1
+0.918,0.774,Filament ionocyte,0.2924398412,cox7c
+0.645,0.476,Filament ionocyte,0.2924398412,atp5if1b
+0.87,0.691,Filament ionocyte,0.2924398412,atp5l
+0.31,0.219,Filament ionocyte,0.2924398412,pdha1a
+0.62,0.417,Filament ionocyte,0.2924398412,mt-nd5
+0.599,0.438,Filament ionocyte,0.2924398412,cox8b
+0.415,0.264,Filament ionocyte,0.2924398412,si:ch211-79k12.1
+0.841,0.669,Filament ionocyte,0.2924398412,cox6c
+0.765,0.601,Filament ionocyte,0.2924398412,COX5B
+0.467,0.317,Filament ionocyte,0.2924398412,cldne
+0.289,0.165,Filament ionocyte,0.2924398412,acat1
+0.733,0.561,Filament ionocyte,0.2924398412,atp5mf
+0.276,0.191,Filament ionocyte,0.2924398412,ckmt1
+0.374,0.29,Filament ionocyte,0.2924398412,ndufs4
+0.398,0.254,Filament ionocyte,0.2924398412,soul2
+0.276,0.214,Filament ionocyte,0.2924398412,idh3b
+0.396,0.268,Filament ionocyte,0.2924398412,chchd10
+0.262,0.196,Filament ionocyte,0.2924398412,bcat2
+0.415,0.274,Filament ionocyte,0.2924398412,sqstm1
+0.28,0.166,Filament ionocyte,0.2924398412,mt-atp8
+0.462,0.321,Filament ionocyte,0.2924398412,mid1ip1a
+0.28,0.188,Filament ionocyte,0.2924398412,atp6v1h
+0.269,0.206,Filament ionocyte,0.2924398412,ndrg3a
+0.581,0.445,Filament ionocyte,0.2924398412,LO018013.1
+0.398,0.285,Filament ionocyte,0.2924398412,pdhb
+0.485,0.364,Filament ionocyte,0.2924398412,ndufc2
+0.333,0.235,Filament ionocyte,0.2924398412,uqcrc2b
+0.39,0.31,Filament ionocyte,0.2924398412,ppifb
+0.344,0.211,Filament ionocyte,0.2924398412,rgs5b
+0.314,0.246,Filament ionocyte,0.2924398412,aco2
+0.28,0.216,Filament ionocyte,0.2924398412,si:ch73-31d8.2
+0.253,0.166,Filament ionocyte,0.2924398412,si:ch211-39k3.2
+0.299,0.231,Filament ionocyte,0.2924398412,ndufs2
+0.419,0.306,Filament ionocyte,0.2924398412,prr13
+0.742,0.583,Filament ionocyte,0.2924398412,si:dkey-247k7.2
+0.855,0.403,NaK ionocyte,0.189321706,CT573383.1
+0.474,0.206,NaK ionocyte,0.189321706,rgs5b
+0.304,0.164,NaK ionocyte,0.189321706,si:dkey-193p11.2
+0.331,0.209,NaK ionocyte,0.189321706,tmx2b
+0.251,0.136,NaK ionocyte,0.189321706,si:dkey-44g23.5
+0.377,0.237,NaK ionocyte,0.189321706,hspd1
+0.277,0.187,NaK ionocyte,0.189321706,foxi3a
+0.47,0.307,NaK ionocyte,0.189321706,ppifb
+0.671,0.432,NaK ionocyte,0.189321706,prdx2
+0.306,0.23,NaK ionocyte,0.189321706,mid1ip1b
+0.801,0.57,NaK ionocyte,0.189321706,cox6a1
+0.259,0.198,NaK ionocyte,0.189321706,CR356236.1
+0.778,0.594,NaK ionocyte,0.189321706,h2afvb
+0.884,0.582,NaK ionocyte,0.189321706,cox7a2a
+0.267,0.197,NaK ionocyte,0.189321706,foxi3b
+0.42,0.317,NaK ionocyte,0.189321706,dusp2
+0.87,0.597,NaK ionocyte,0.189321706,COX5B
+0.402,0.255,NaK ionocyte,0.189321706,mrpl57
+0.988,0.793,NaK ionocyte,0.189321706,atp5f1e
+0.625,0.444,NaK ionocyte,0.189321706,LO018013.1
+0.282,0.231,NaK ionocyte,0.189321706,zgc:194246
+0.901,0.65,NaK ionocyte,0.189321706,atp5pf
+0.793,0.559,NaK ionocyte,0.189321706,atp5mf
+0.969,0.725,NaK ionocyte,0.189321706,atp5mc1
+0.948,0.716,NaK ionocyte,0.189321706,atp5mc3b
+0.377,0.27,NaK ionocyte,0.189321706,chchd10
+0.381,0.29,NaK ionocyte,0.189321706,ndufs4
+0.397,0.286,NaK ionocyte,0.189321706,pdhb
+0.954,0.734,NaK ionocyte,0.189321706,cox7b
+0.863,0.589,NaK ionocyte,0.189321706,atp5f1b
+0.868,0.728,NaK ionocyte,0.189321706,hmgn2
+0.632,0.47,NaK ionocyte,0.189321706,cox5ab
+0.764,0.558,NaK ionocyte,0.189321706,cox6b1
+0.259,0.184,NaK ionocyte,0.189321706,nqo1
+0.799,0.553,NaK ionocyte,0.189321706,atp5f1c
+0.783,0.57,NaK ionocyte,0.189321706,atp5pd
+0.331,0.271,NaK ionocyte,0.189321706,wdr83os
+0.897,0.667,NaK ionocyte,0.189321706,cox6c
+0.358,0.281,NaK ionocyte,0.189321706,ndufa10
+0.395,0.293,NaK ionocyte,0.189321706,uqcrc1
+0.282,0.232,NaK ionocyte,0.189321706,ndufs2
+0.714,0.5,NaK ionocyte,0.189321706,atp5fa1
+0.296,0.223,NaK ionocyte,0.189321706,plekhf1
+0.567,0.485,NaK ionocyte,0.189321706,hmgb2b
+0.66,0.476,NaK ionocyte,0.189321706,atp5if1b
+0.872,0.612,NaK ionocyte,0.189321706,cycsb
+0.896,0.68,NaK ionocyte,0.189321706,cox4i1
+0.522,0.381,NaK ionocyte,0.189321706,mpc1
+0.4,0.31,NaK ionocyte,0.189321706,cldnh
+0.449,0.366,NaK ionocyte,0.189321706,ndufc2
+0.774,0.591,NaK ionocyte,0.189321706,cox8a
+0.398,0.307,NaK ionocyte,0.189321706,ckbb
+0.876,0.691,NaK ionocyte,0.189321706,atp5l
+0.94,0.773,NaK ionocyte,0.189321706,cox7c
+0.65,0.533,NaK ionocyte,0.189321706,cldnb
+0.791,0.179,Lamella ionocyte,0.3159562382,si:ch211-214p16.2
+0.797,0.176,Lamella ionocyte,0.3159562382,ceacam1
+0.9,0.235,Lamella ionocyte,0.3159562382,si:ch73-14h1.2
+0.869,0.259,Lamella ionocyte,0.3159562382,ca15a
+0.598,0.134,Lamella ionocyte,0.3159562382,atp1a1a.5
+0.832,0.284,Lamella ionocyte,0.3159562382,si:ch211-217k17.10
+0.553,0.114,Lamella ionocyte,0.3159562382,ly6m2
+0.926,0.425,Lamella ionocyte,0.3159562382,atp6v0ca
+0.477,0.103,Lamella ionocyte,0.3159562382,si:dkey-192d15.2
+0.674,0.252,Lamella ionocyte,0.3159562382,zgc:194101
+0.486,0.18,Lamella ionocyte,0.3159562382,zgc:193726
+0.666,0.242,Lamella ionocyte,0.3159562382,soul2
+0.682,0.218,Lamella ionocyte,0.3159562382,atp1a1a.3
+0.57,0.207,Lamella ionocyte,0.3159562382,atp6ap2
+0.646,0.278,Lamella ionocyte,0.3159562382,rnaseka
+0.611,0.287,Lamella ionocyte,0.3159562382,NC-002333.7
+0.342,0.076,Lamella ionocyte,0.3159562382,chp1
+0.363,0.177,Lamella ionocyte,0.3159562382,rnf128a
+0.416,0.167,Lamella ionocyte,0.3159562382,atp6v0a1a
+0.381,0.144,Lamella ionocyte,0.3159562382,si:ch211-198m17.1
+0.703,0.301,Lamella ionocyte,0.3159562382,cox6a2
+0.588,0.298,Lamella ionocyte,0.3159562382,ponzr5
+0.799,0.41,Lamella ionocyte,0.3159562382,mt-nd5
+0.52,0.222,Lamella ionocyte,0.3159562382,atp6v1e1b
+0.422,0.205,Lamella ionocyte,0.3159562382,si:ch211-270g19.5
+0.408,0.189,Lamella ionocyte,0.3159562382,bcat2
+0.271,0.092,Lamella ionocyte,0.3159562382,kcnj1a.1
+0.377,0.153,Lamella ionocyte,0.3159562382,zgc:92249
+0.805,0.521,Lamella ionocyte,0.3159562382,si:busm1-266f07.2
+0.441,0.231,Lamella ionocyte,0.3159562382,gcm2
+0.459,0.212,Lamella ionocyte,0.3159562382,si:dkey-33i11.9
+0.992,0.828,Lamella ionocyte,0.3159562382,mt-nd4
+0.553,0.287,Lamella ionocyte,0.3159562382,arg2
+0.984,0.573,Lamella ionocyte,0.3159562382,si:dkey-33i11.4
+0.439,0.201,Lamella ionocyte,0.3159562382,atp6v1aa
+0.99,0.843,Lamella ionocyte,0.3159562382,mt-nd2
+0.359,0.165,Lamella ionocyte,0.3159562382,atp6v0d1
+0.516,0.26,Lamella ionocyte,0.3159562382,si:ch211-79k12.1
+0.996,0.848,Lamella ionocyte,0.3159562382,mt-nd3
+0.326,0.167,Lamella ionocyte,0.3159562382,atp6ap1b
+0.318,0.181,Lamella ionocyte,0.3159562382,atp6v1f
+0.996,0.87,Lamella ionocyte,0.3159562382,mt-nd1
+0.434,0.243,Lamella ionocyte,0.3159562382,si:zfos-2070c2.1
+0.998,0.958,Lamella ionocyte,0.3159562382,mt-cyb
+0.451,0.26,Lamella ionocyte,0.3159562382,si:ch73-359m17.5
+0.961,0.689,Lamella ionocyte,0.3159562382,NC-002333.17
+0.537,0.281,Lamella ionocyte,0.3159562382,atp6v1g1
+0.342,0.2,Lamella ionocyte,0.3159562382,cyp3c1
+0.277,0.187,Lamella ionocyte,0.3159562382,foxi3a
+1,0.987,Lamella ionocyte,0.3159562382,mt-atp6
+0.305,0.119,Lamella ionocyte,0.3159562382,sat1b
+0.5,0.305,Lamella ionocyte,0.3159562382,cldnh
+0.971,0.828,Lamella ionocyte,0.3159562382,cd74a
+0.266,0.141,Lamella ionocyte,0.3159562382,ggt1l2.1
+0.428,0.171,Lamella ionocyte,0.3159562382,atp1b1b
+0.406,0.209,Lamella ionocyte,0.3159562382,rgs5b
+0.93,0.715,Lamella ionocyte,0.3159562382,mhc2dab
+0.33,0.18,Lamella ionocyte,0.3159562382,atp6v1d
+0.383,0.236,Lamella ionocyte,0.3159562382,mhc1uba
+0.264,0.154,Lamella ionocyte,0.3159562382,zgc:165573
+0.99,0.903,Lamella ionocyte,0.3159562382,NC-002333.4
+0.885,0.577,Lamella ionocyte,0.3159562382,si:dkey-247k7.2
+1,0.998,Lamella ionocyte,0.3159562382,mt-co1
+1,1,Lamella ionocyte,0.3159562382,mt-co2
+0.443,0.295,Lamella ionocyte,0.3159562382,si:dkeyp-1h4.6
+1,0.999,Lamella ionocyte,0.3159562382,mt-co3
+0.957,0.824,Lamella ionocyte,0.3159562382,cd74b
+0.348,0.204,Lamella ionocyte,0.3159562382,atp6v1ba
+0.254,0.156,Lamella ionocyte,0.3159562382,atp6v1c1b
+0.305,0.164,Lamella ionocyte,0.3159562382,si:ch211-39k3.2
+0.998,0.971,Lamella ionocyte,0.3159562382,slc25a5
+0.289,0.19,Lamella ionocyte,0.3159562382,si:dkey-188i13.6
+0.266,0.197,Lamella ionocyte,0.3159562382,foxi3b
+0.316,0.189,Lamella ionocyte,0.3159562382,ckmt1
+0.689,0.519,Lamella ionocyte,0.3159562382,rhbg
+0.312,0.187,Lamella ionocyte,0.3159562382,atp6v1h
+0.65,0.455,Lamella ionocyte,0.3159562382,si:ch211-195b11.3
+0.281,0.184,Lamella ionocyte,0.3159562382,mal2
+0.412,0.278,Lamella ionocyte,0.3159562382,cox5b2
+0.412,0.275,Lamella ionocyte,0.3159562382,sqstm1
+0.369,0.319,Lamella ionocyte,0.3159562382,dusp2
+0.299,0.2,Lamella ionocyte,0.3159562382,ildr1a
+0.543,0.38,Lamella ionocyte,0.3159562382,mpc1
+0.299,0.165,Lamella ionocyte,0.3159562382,mt-atp8
+0.465,0.318,Lamella ionocyte,0.3159562382,cldne
+0.793,0.616,Lamella ionocyte,0.3159562382,cycsb
+0.393,0.307,Lamella ionocyte,0.3159562382,prr13
+0.605,0.397,Lamella ionocyte,0.3159562382,ppdpfb
+0.359,0.246,Lamella ionocyte,0.3159562382,epdl1
+0.74,0.589,Lamella ionocyte,0.3159562382,cox7a2a
+0.502,0.35,Lamella ionocyte,0.3159562382,idh2
+0.467,0.334,Lamella ionocyte,0.3159562382,zgc:152791
+0.879,0.776,Lamella ionocyte,0.3159562382,cox7c
+0.387,0.284,Lamella ionocyte,0.3159562382,mpc2
+0.369,0.297,Lamella ionocyte,0.3159562382,irf1b
+0.262,0.167,Lamella ionocyte,0.3159562382,acat1
+0.771,0.673,Lamella ionocyte,0.3159562382,cox6c
+0.787,0.685,Lamella ionocyte,0.3159562382,cox4i1
+0.996,0.958,Lamella ionocyte,0.3159562382,tmsb1
+0.285,0.213,Lamella ionocyte,0.3159562382,grna
+0.662,0.596,Lamella ionocyte,0.3159562382,cox8a
+0.289,0.23,Lamella ionocyte,0.3159562382,zgc:194246
+0.863,0.73,Lamella ionocyte,0.3159562382,atp5mc1
+0.338,0.271,Lamella ionocyte,0.3159562382,chchd10
+0.551,0.474,Lamella ionocyte,0.3159562382,cox5ab
+0.863,0.738,Lamella ionocyte,0.3159562382,cox7b
+0.301,0.247,Lamella ionocyte,0.3159562382,aco2
+0.293,0.225,Lamella ionocyte,0.3159562382,ctss2.2
+0.318,0.236,Lamella ionocyte,0.3159562382,uqcrc2b
+0.596,0.506,Lamella ionocyte,0.3159562382,atp5fa1
+0.434,0.351,Lamella ionocyte,0.3159562382,txn
+0.406,0.368,Lamella ionocyte,0.3159562382,ndufc2
+0.985,0.904,Mt_rich cell,0.3004934197,NC-002333.4
+0.882,0.693,Mt_rich cell,0.3004934197,NC-002333.17
+0.969,0.849,Mt_rich cell,0.3004934197,mt-nd3
+0.945,0.831,Mt_rich cell,0.3004934197,mt-nd4
+0.954,0.845,Mt_rich cell,0.3004934197,mt-nd2
+1,0.958,Mt_rich cell,0.3004934197,mt-cyb
+0.959,0.873,Mt_rich cell,0.3004934197,mt-nd1
+1,0.998,Mt_rich cell,0.3004934197,mt-co1
+1,0.999,Mt_rich cell,0.3004934197,mt-co3
+0.546,0.422,Mt_rich cell,0.3004934197,mt-nd5
+1,0.987,Mt_rich cell,0.3004934197,mt-atp6
+1,1,Mt_rich cell,0.3004934197,mt-co2
+0.51,0.161,Immunocyte_tppp high,0.1715704648,ccl36.1
+0.284,0.114,Immunocyte_tppp high,0.1715704648,si:dkey-30j10.5
+0.409,0.122,Immunocyte_tppp high,0.1715704648,ccl38a.4
+0.3,0.072,Immunocyte_tppp high,0.1715704648,grn1
+0.547,0.154,Immunocyte_tppp high,0.1715704648,si:ch211-214p16.1
+0.324,0.117,Immunocyte_tppp high,0.1715704648,tppp
+0.532,0.108,Immunocyte_tppp high,0.1715704648,coro1a
+0.357,0.141,Immunocyte_tppp high,0.1715704648,ccl38.6
+0.267,0.071,Immunocyte_tppp high,0.1715704648,lgals3bpb
+0.42,0.115,Immunocyte_tppp high,0.1715704648,si:dkey-27i16.2
+0.293,0.091,Immunocyte_tppp high,0.1715704648,fcer1gl
+0.284,0.125,Immunocyte_tppp high,0.1715704648,fabp7b
+0.477,0.169,Immunocyte_tppp high,0.1715704648,arpc1b
+0.409,0.11,Immunocyte_tppp high,0.1715704648,laptm5
+0.422,0.148,Immunocyte_tppp high,0.1715704648,srgn
+0.945,0.696,Immunocyte_tppp high,0.1715704648,pfn1
+0.315,0.124,Immunocyte_tppp high,0.1715704648,ccl38a.5
+0.383,0.057,Immunocyte_tppp high,0.1715704648,lcp1
+0.422,0.153,Immunocyte_tppp high,0.1715704648,rgs13
+0.28,0.097,Immunocyte_tppp high,0.1715704648,si:ch73-343g19.4
+0.346,0.217,Immunocyte_tppp high,0.1715704648,ctsba
+0.291,0.09,Immunocyte_tppp high,0.1715704648,tagapa
+0.271,0.101,Immunocyte_tppp high,0.1715704648,ccr9a
+0.4,0.197,Immunocyte_tppp high,0.1715704648,rac2
+0.267,0.137,Immunocyte_tppp high,0.1715704648,tnfb
+0.302,0.244,Immunocyte_tppp high,0.1715704648,lygl1
+0.276,0.122,Immunocyte_tppp high,0.1715704648,ptpn6
+0.302,0.225,Immunocyte_tppp high,0.1715704648,ctss2.2
+0.398,0.201,Immunocyte_tppp high,0.1715704648,hmgn3
+0.269,0.161,Immunocyte_tppp high,0.1715704648,arl5c
+0.311,0.187,Immunocyte_tppp high,0.1715704648,ms4a17a.6
+0.361,0.264,Immunocyte_tppp high,0.1715704648,nr4a1
+0.383,0.256,Immunocyte_tppp high,0.1715704648,h1fx
+0.497,0.322,Immunocyte_tppp high,0.1715704648,crip1
+0.827,0.73,Immunocyte_tppp high,0.1715704648,hmgn2
+0.814,0.835,Immunocyte_tppp high,0.1715704648,cd74a
+0.392,0.302,Immunocyte_tppp high,0.1715704648,nfkbiaa
+0.337,0.235,Immunocyte_tppp high,0.1715704648,zgc:153317
+0.335,0.259,Immunocyte_tppp high,0.1715704648,h2afx
+0.488,0.404,Immunocyte_tppp high,0.1715704648,her9
+0.265,0.207,Immunocyte_tppp high,0.1715704648,cxcr4b
+0.313,0.247,Immunocyte_tppp high,0.1715704648,rrm2
+0.28,0.22,Immunocyte_tppp high,0.1715704648,kpna2
+0.293,0.195,Immunocyte_tppp high,0.1715704648,si:dkey-102m7.3
+0.42,0.343,Immunocyte_tppp high,0.1715704648,pcna
+0.271,0.191,Immunocyte_tppp high,0.1715704648,nasp
+0.26,0.175,Immunocyte_tppp high,0.1715704648,bcl2l10
+0.698,0.598,Immunocyte_tppp high,0.1715704648,h2afvb
+0.733,0.659,Immunocyte_tppp high,0.1715704648,hmgb2a
+0.927,0.287,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-207n23.2
+0.896,0.163,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:111983
+0.736,0.167,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-7c18.24
+0.723,0.084,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:165423
+0.702,0.16,Pharyngeal arch cell_ponzr3 high,0.4571695871,ponzr3
+0.603,0.111,Pharyngeal arch cell_ponzr3 high,0.4571695871,ponzr4
+0.995,0.577,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-247k7.2
+0.561,0.169,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-117m20.5
+0.42,0.116,Pharyngeal arch cell_ponzr3 high,0.4571695871,rhcga
+0.347,0.075,Pharyngeal arch cell_ponzr3 high,0.4571695871,mslna
+0.796,0.285,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkeyp-1h4.6
+0.457,0.102,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:163079
+0.53,0.206,Pharyngeal arch cell_ponzr3 high,0.4571695871,gig2l
+0.799,0.308,Pharyngeal arch cell_ponzr3 high,0.4571695871,cldne
+0.465,0.075,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:171226
+0.736,0.334,Pharyngeal arch cell_ponzr3 high,0.4571695871,anxa1c
+0.423,0.128,Pharyngeal arch cell_ponzr3 high,0.4571695871,AL929237.1
+0.705,0.37,Pharyngeal arch cell_ponzr3 high,0.4571695871,icn2
+0.475,0.115,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-329n5.6
+0.807,0.291,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-217k17.10
+0.358,0.085,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-202l22.6
+0.462,0.144,Pharyngeal arch cell_ponzr3 high,0.4571695871,gmds
+0.89,0.449,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-195b11.3
+0.386,0.103,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-125o16.4
+0.465,0.154,Pharyngeal arch cell_ponzr3 high,0.4571695871,CU914622.2
+0.407,0.11,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:zfos-367g9.1
+0.363,0.09,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:100868
+0.358,0.134,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-239b22.1
+0.324,0.083,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-204p21.2
+0.582,0.211,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-33i11.9
+0.467,0.217,Pharyngeal arch cell_ponzr3 high,0.4571695871,ogfrl2
+0.674,0.316,Pharyngeal arch cell_ponzr3 high,0.4571695871,mid1ip1a
+0.342,0.117,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-95j8.2
+0.305,0.076,Pharyngeal arch cell_ponzr3 high,0.4571695871,vwa10.2
+0.342,0.123,Pharyngeal arch cell_ponzr3 high,0.4571695871,ccl20a.3
+0.637,0.248,Pharyngeal arch cell_ponzr3 high,0.4571695871,soul2
+0.258,0.104,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-157c3.4
+0.449,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871,agr1
+0.405,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871,ccl19a.1
+0.402,0.112,Pharyngeal arch cell_ponzr3 high,0.4571695871,apodb
+0.582,0.261,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-79k12.1
+0.666,0.329,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:152791
+0.316,0.139,Pharyngeal arch cell_ponzr3 high,0.4571695871,elovl7a
+0.287,0.098,Pharyngeal arch cell_ponzr3 high,0.4571695871,abcb5
+0.94,0.717,Pharyngeal arch cell_ponzr3 high,0.4571695871,mhc2dab
+0.266,0.096,Pharyngeal arch cell_ponzr3 high,0.4571695871,stx11b.1
+0.948,0.692,Pharyngeal arch cell_ponzr3 high,0.4571695871,NC-002333.17
+0.559,0.285,Pharyngeal arch cell_ponzr3 high,0.4571695871,selenow2b
+0.527,0.261,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:194101
+0.279,0.107,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:193505
+0.54,0.241,Pharyngeal arch cell_ponzr3 high,0.4571695871,epdl1
+0.256,0.118,Pharyngeal arch cell_ponzr3 high,0.4571695871,vamp8
+0.389,0.195,Pharyngeal arch cell_ponzr3 high,0.4571695871,ctsh
+0.292,0.11,Pharyngeal arch cell_ponzr3 high,0.4571695871,gna14
+0.969,0.825,Pharyngeal arch cell_ponzr3 high,0.4571695871,cd74b
+0.606,0.32,Pharyngeal arch cell_ponzr3 high,0.4571695871,atp1a1a.2
+0.251,0.132,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:123295
+0.285,0.141,Pharyngeal arch cell_ponzr3 high,0.4571695871,ftr83
+0.253,0.082,Pharyngeal arch cell_ponzr3 high,0.4571695871,mgll
+0.295,0.137,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-78o10.1
+0.966,0.905,Pharyngeal arch cell_ponzr3 high,0.4571695871,NC-002333.4
+0.423,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871,ctss2.2
+0.269,0.164,Pharyngeal arch cell_ponzr3 high,0.4571695871,muc5.1
+0.426,0.212,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-31d8.2
+0.251,0.107,Pharyngeal arch cell_ponzr3 high,0.4571695871,styk1
+0.436,0.262,Pharyngeal arch cell_ponzr3 high,0.4571695871,pmaip1
+0.483,0.221,Pharyngeal arch cell_ponzr3 high,0.4571695871,BX000438.2
+0.3,0.184,Pharyngeal arch cell_ponzr3 high,0.4571695871,nqo1
+0.444,0.245,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:zfos-2070c2.1
+0.251,0.03,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-226h7.5
+0.277,0.074,Pharyngeal arch cell_ponzr3 high,0.4571695871,CU571328.1
+0.488,0.247,Pharyngeal arch cell_ponzr3 high,0.4571695871,ndrg1a
+0.974,0.829,Pharyngeal arch cell_ponzr3 high,0.4571695871,cd74a
+0.298,0.187,Pharyngeal arch cell_ponzr3 high,0.4571695871,krt97
+0.345,0.173,Pharyngeal arch cell_ponzr3 high,0.4571695871,kcnj1a.2
+0.352,0.199,Pharyngeal arch cell_ponzr3 high,0.4571695871,ildr1a
+0.462,0.287,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch1073-190k2.1
+0.966,0.85,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-nd3
+0.272,0.127,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:152670
+0.371,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871,plekhf1
+0.548,0.293,Pharyngeal arch cell_ponzr3 high,0.4571695871,NC-002333.7
+0.564,0.311,Pharyngeal arch cell_ponzr3 high,0.4571695871,cox6a2
+0.358,0.179,Pharyngeal arch cell_ponzr3 high,0.4571695871,rnf128a
+0.392,0.173,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-153b23.5
+0.381,0.2,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-214p16.2
+0.595,0.419,Pharyngeal arch cell_ponzr3 high,0.4571695871,krt17
+0.721,0.527,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:busm1-266f07.2
+0.992,0.869,Pharyngeal arch cell_ponzr3 high,0.4571695871,CR318588.1
+0.449,0.275,Pharyngeal arch cell_ponzr3 high,0.4571695871,sqstm1
+0.413,0.32,Pharyngeal arch cell_ponzr3 high,0.4571695871,s100v1
+0.418,0.264,Pharyngeal arch cell_ponzr3 high,0.4571695871,mgst1.2
+0.956,0.832,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-nd4
+0.987,0.959,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-cyb
+0.624,0.42,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-nd5
+0.321,0.222,Pharyngeal arch cell_ponzr3 high,0.4571695871,agr2
+0.543,0.306,Pharyngeal arch cell_ponzr3 high,0.4571695871,cldnh
+0.791,0.584,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:dkey-33i11.4
+0.352,0.211,Pharyngeal arch cell_ponzr3 high,0.4571695871,grna
+0.932,0.846,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-nd2
+0.969,0.873,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-nd1
+1,0.999,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-co3
+1,0.998,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-co1
+0.258,0.129,Pharyngeal arch cell_ponzr3 high,0.4571695871,degs2
+0.324,0.127,Pharyngeal arch cell_ponzr3 high,0.4571695871,ly6m2
+0.279,0.141,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:194655
+0.342,0.177,Pharyngeal arch cell_ponzr3 high,0.4571695871,atp1b1b
+0.394,0.297,Pharyngeal arch cell_ponzr3 high,0.4571695871,irf1b
+1,1,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-co2
+0.287,0.189,Pharyngeal arch cell_ponzr3 high,0.4571695871,anxa1b
+0.548,0.397,Pharyngeal arch cell_ponzr3 high,0.4571695871,elf3
+0.277,0.168,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-atp8
+0.251,0.132,Pharyngeal arch cell_ponzr3 high,0.4571695871,mhc2dbb
+0.995,0.988,Pharyngeal arch cell_ponzr3 high,0.4571695871,mt-atp6
+0.316,0.149,Pharyngeal arch cell_ponzr3 high,0.4571695871,atp1a1a.5
+0.407,0.257,Pharyngeal arch cell_ponzr3 high,0.4571695871,cox7a1
+0.418,0.233,Pharyngeal arch cell_ponzr3 high,0.4571695871,ccl20b
+0.277,0.185,Pharyngeal arch cell_ponzr3 high,0.4571695871,ptgs2b
+0.329,0.196,Pharyngeal arch cell_ponzr3 high,0.4571695871,foxi3b
+0.671,0.534,Pharyngeal arch cell_ponzr3 high,0.4571695871,cldnb
+0.496,0.35,Pharyngeal arch cell_ponzr3 high,0.4571695871,txn
+0.366,0.304,Pharyngeal arch cell_ponzr3 high,0.4571695871,nfkbiaa
+0.264,0.161,Pharyngeal arch cell_ponzr3 high,0.4571695871,rgs13
+0.46,0.306,Pharyngeal arch cell_ponzr3 high,0.4571695871,prr13
+0.507,0.305,Pharyngeal arch cell_ponzr3 high,0.4571695871,ckbb
+0.47,0.279,Pharyngeal arch cell_ponzr3 high,0.4571695871,ca15a
+0.616,0.494,Pharyngeal arch cell_ponzr3 high,0.4571695871,krt4
+0.251,0.165,Pharyngeal arch cell_ponzr3 high,0.4571695871,sult1st9
+0.363,0.204,Pharyngeal arch cell_ponzr3 high,0.4571695871,ndrg3a
+0.298,0.193,Pharyngeal arch cell_ponzr3 high,0.4571695871,CU207281.2
+0.731,0.533,Pharyngeal arch cell_ponzr3 high,0.4571695871,CR318588.3
+0.446,0.258,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-14h1.2
+0.311,0.219,Pharyngeal arch cell_ponzr3 high,0.4571695871,ptgs2a
+0.76,0.619,Pharyngeal arch cell_ponzr3 high,0.4571695871,cycsb
+0.355,0.265,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-183d5.2
+1,0.958,Pharyngeal arch cell_ponzr3 high,0.4571695871,CR318588.4
+0.431,0.337,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:153284
+0.407,0.264,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch73-359m17.5
+0.279,0.156,Pharyngeal arch cell_ponzr3 high,0.4571695871,cox4i1l
+0.815,0.711,Pharyngeal arch cell_ponzr3 high,0.4571695871,phlda2
+0.527,0.443,Pharyngeal arch cell_ponzr3 high,0.4571695871,cox8b
+0.256,0.12,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:zfos-943e10.1
+0.256,0.09,Pharyngeal arch cell_ponzr3 high,0.4571695871,CR786562.1
+0.862,0.781,Pharyngeal arch cell_ponzr3 high,0.4571695871,epcam
+0.264,0.163,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:113314
+0.587,0.4,Pharyngeal arch cell_ponzr3 high,0.4571695871,ppdpfb
+0.554,0.381,Pharyngeal arch cell_ponzr3 high,0.4571695871,mpc1
+0.337,0.202,Pharyngeal arch cell_ponzr3 high,0.4571695871,cyp3c1
+0.7,0.603,Pharyngeal arch cell_ponzr3 high,0.4571695871,zgc:153911
+0.439,0.232,Pharyngeal arch cell_ponzr3 high,0.4571695871,atp1a1a.3
+0.47,0.277,Pharyngeal arch cell_ponzr3 high,0.4571695871,cox5b2
+0.266,0.148,Pharyngeal arch cell_ponzr3 high,0.4571695871,si:ch211-160j14.2
+0.842,0.076,NCC ionocyte,0.3664355322,slc12a10.2
+0.831,0.111,NCC ionocyte,0.3664355322,si:ch73-359m17.9
+0.825,0.091,NCC ionocyte,0.3664355322,clcn2c
+0.588,0.051,NCC ionocyte,0.3664355322,si:dkey-189h5.6
+0.763,0.155,NCC ionocyte,0.3664355322,CU914622.2
+0.881,0.219,NCC ionocyte,0.3664355322,BX000438.2
+0.983,0.319,NCC ionocyte,0.3664355322,atp1a1a.2
+0.864,0.241,NCC ionocyte,0.3664355322,epdl1
+0.65,0.128,NCC ionocyte,0.3664355322,si:ch211-195e19.1
+0.989,0.571,NCC ionocyte,0.3664355322,prdx5
+0.847,0.347,NCC ionocyte,0.3664355322,txn
+0.661,0.145,NCC ionocyte,0.3664355322,ahcyl1
+0.469,0.089,NCC ionocyte,0.3664355322,gsto1
+0.847,0.229,NCC ionocyte,0.3664355322,atp1a1a.3
+0.847,0.306,NCC ionocyte,0.3664355322,cldnh
+0.644,0.131,NCC ionocyte,0.3664355322,prlra
+0.751,0.247,NCC ionocyte,0.3664355322,ndrg1a
+0.723,0.21,NCC ionocyte,0.3664355322,rgs5b
+0.48,0.122,NCC ionocyte,0.3664355322,si:ch73-329n5.6
+0.87,0.285,NCC ionocyte,0.3664355322,selenow2b
+0.384,0.092,NCC ionocyte,0.3664355322,si:dkey-184p9.7
+0.655,0.202,NCC ionocyte,0.3664355322,ndrg3a
+1,0.585,NCC ionocyte,0.3664355322,si:dkey-33i11.4
+0.774,0.173,NCC ionocyte,0.3664355322,atp1b1b
+0.667,0.173,NCC ionocyte,0.3664355322,si:ch211-153b23.5
+0.757,0.253,NCC ionocyte,0.3664355322,soul2
+0.718,0.206,NCC ionocyte,0.3664355322,tmx2b
+0.667,0.145,NCC ionocyte,0.3664355322,tspan36
+0.644,0.227,NCC ionocyte,0.3664355322,mid1ip1b
+0.989,0.732,NCC ionocyte,0.3664355322,atp5mc1
+0.859,0.439,NCC ionocyte,0.3664355322,cox8b
+0.763,0.281,NCC ionocyte,0.3664355322,mpc2
+0.695,0.265,NCC ionocyte,0.3664355322,si:ch211-79k12.1
+0.881,0.504,NCC ionocyte,0.3664355322,atp5fa1
+0.525,0.182,NCC ionocyte,0.3664355322,nqo1
+0.825,0.294,NCC ionocyte,0.3664355322,si:dkeyp-1h4.6
+0.791,0.317,NCC ionocyte,0.3664355322,cldne
+0.633,0.213,NCC ionocyte,0.3664355322,si:ch73-31d8.2
+0.712,0.263,NCC ionocyte,0.3664355322,zgc:194101
+0.469,0.141,NCC ionocyte,0.3664355322,zgc:194655
+0.39,0.113,NCC ionocyte,0.3664355322,rnf183
+0.322,0.023,NCC ionocyte,0.3664355322,hspb11
+0.599,0.128,NCC ionocyte,0.3664355322,zgc:123295
+0.921,0.574,NCC ionocyte,0.3664355322,atp5pd
+0.492,0.079,NCC ionocyte,0.3664355322,tmem45b
+0.689,0.268,NCC ionocyte,0.3664355322,chchd10
+0.723,0.242,NCC ionocyte,0.3664355322,aco2
+0.921,0.619,NCC ionocyte,0.3664355322,cycsb
+0.452,0.127,NCC ionocyte,0.3664355322,naga
+0.808,0.303,NCC ionocyte,0.3664355322,ckbb
+0.927,0.686,NCC ionocyte,0.3664355322,cox4i1
+0.972,0.723,NCC ionocyte,0.3664355322,atp5mc3b
+0.881,0.562,NCC ionocyte,0.3664355322,cox6b1
+0.582,0.16,NCC ionocyte,0.3664355322,cmbl
+0.932,0.591,NCC ionocyte,0.3664355322,cox7a2a
+0.977,0.585,NCC ionocyte,0.3664355322,si:dkey-247k7.2
+0.559,0.178,NCC ionocyte,0.3664355322,ehd1b
+0.678,0.287,NCC ionocyte,0.3664355322,si:ch1073-190k2.1
+0.819,0.38,NCC ionocyte,0.3664355322,mpc1
+1,0.874,NCC ionocyte,0.3664355322,mt-nd1
+0.661,0.226,NCC ionocyte,0.3664355322,zgc:194246
+0.508,0.25,NCC ionocyte,0.3664355322,zgc:110339
+0.881,0.575,NCC ionocyte,0.3664355322,cox6a1
+0.751,0.261,NCC ionocyte,0.3664355322,si:ch73-359m17.5
+0.571,0.194,NCC ionocyte,0.3664355322,foxi3b
+0.384,0.117,NCC ionocyte,0.3664355322,apodb
+0.571,0.245,NCC ionocyte,0.3664355322,ppil1
+0.994,0.799,NCC ionocyte,0.3664355322,atp5f1e
+0.492,0.223,NCC ionocyte,0.3664355322,plekhf1
+0.497,0.098,NCC ionocyte,0.3664355322,abcb5
+1,0.988,NCC ionocyte,0.3664355322,mt-atp6
+0.384,0.155,NCC ionocyte,0.3664355322,CR753876.1
+0.644,0.194,NCC ionocyte,0.3664355322,CR356236.1
+0.898,0.658,NCC ionocyte,0.3664355322,atp5pf
+0.339,0.096,NCC ionocyte,0.3664355322,zgc:100868
+0.966,0.695,NCC ionocyte,0.3664355322,atp5l
+1,0.847,NCC ionocyte,0.3664355322,mt-nd2
+0.881,0.595,NCC ionocyte,0.3664355322,cox8a
+0.864,0.605,NCC ionocyte,0.3664355322,COX5B
+0.701,0.287,NCC ionocyte,0.3664355322,ndufs4
+0.96,0.74,NCC ionocyte,0.3664355322,cox7b
+0.915,0.558,NCC ionocyte,0.3664355322,atp5f1c
+0.932,0.673,NCC ionocyte,0.3664355322,cox6c
+0.401,0.083,NCC ionocyte,0.3664355322,zgc:171226
+0.689,0.308,NCC ionocyte,0.3664355322,ppifb
+0.61,0.198,NCC ionocyte,0.3664355322,ildr1a
+0.61,0.306,NCC ionocyte,0.3664355322,prr13
+0.887,0.457,NCC ionocyte,0.3664355322,si:ch211-195b11.3
+1,0.998,NCC ionocyte,0.3664355322,mt-co1
+0.972,0.778,NCC ionocyte,0.3664355322,cox7c
+0.531,0.1,NCC ionocyte,0.3664355322,gpd1a
+1,0.833,NCC ionocyte,0.3664355322,mt-nd4
+0.847,0.565,NCC ionocyte,0.3664355322,atp5mf
+0.599,0.148,NCC ionocyte,0.3664355322,gmds
+0.571,0.305,NCC ionocyte,0.3664355322,mgst3b
+0.808,0.456,NCC ionocyte,0.3664355322,slc25a3b
+0.701,0.278,NCC ionocyte,0.3664355322,ndufa10
+0.819,0.479,NCC ionocyte,0.3664355322,atp5if1b
+0.429,0.079,NCC ionocyte,0.3664355322,rasd1
+0.695,0.232,NCC ionocyte,0.3664355322,uqcrc2b
+0.492,0.133,NCC ionocyte,0.3664355322,cpt1b
+0.52,0.197,NCC ionocyte,0.3664355322,ctsh
+0.503,0.208,NCC ionocyte,0.3664355322,agr1
+0.638,0.246,NCC ionocyte,0.3664355322,si:zfos-2070c2.1
+1,0.959,NCC ionocyte,0.3664355322,mt-cyb
+0.994,0.852,NCC ionocyte,0.3664355322,mt-nd3
+0.548,0.127,NCC ionocyte,0.3664355322,degs2
+1,0.972,NCC ionocyte,0.3664355322,slc25a5
+0.48,0.165,NCC ionocyte,0.3664355322,si:ch211-39k3.2
+0.407,0.131,NCC ionocyte,0.3664355322,mhc2dbb
+1,1,NCC ionocyte,0.3664355322,mt-co2
+0.825,0.446,NCC ionocyte,0.3664355322,LO018013.1
+0.384,0.07,NCC ionocyte,0.3664355322,irg1l
+1,0.905,NCC ionocyte,0.3664355322,NC-002333.4
+0.757,0.301,NCC ionocyte,0.3664355322,si:ch211-217k17.10
+0.774,0.351,NCC ionocyte,0.3664355322,idh2
+0.588,0.276,NCC ionocyte,0.3664355322,sqstm1
+0.367,0.125,NCC ionocyte,0.3664355322,zgc:101785
+0.469,0.16,NCC ionocyte,0.3664355322,nupr1
+0.599,0.211,NCC ionocyte,0.3664355322,idh3b
+0.593,0.189,NCC ionocyte,0.3664355322,ckmt1
+0.559,0.168,NCC ionocyte,0.3664355322,dmrt2a
+0.537,0.154,NCC ionocyte,0.3664355322,cox4i1l
+0.853,0.598,NCC ionocyte,0.3664355322,atp5f1b
+0.78,0.421,NCC ionocyte,0.3664355322,mt-nd5
+1,0.999,NCC ionocyte,0.3664355322,mt-co3
+0.525,0.133,NCC ionocyte,0.3664355322,CABZ01076275.1
+0.429,0.179,NCC ionocyte,0.3664355322,dlat
+0.695,0.313,NCC ionocyte,0.3664355322,cox6a2
+0.554,0.178,NCC ionocyte,0.3664355322,si:dkey-79f11.10
+0.819,0.472,NCC ionocyte,0.3664355322,cox5ab
+0.446,0.181,NCC ionocyte,0.3664355322,rnf128a
+0.565,0.286,NCC ionocyte,0.3664355322,pdhb
+0.571,0.146,NCC ionocyte,0.3664355322,inppl1b
+0.492,0.053,NCC ionocyte,0.3664355322,PTGR1
+0.588,0.293,NCC ionocyte,0.3664355322,uqcrc1
+0.559,0.187,NCC ionocyte,0.3664355322,atp6v1h
+0.542,0.219,NCC ionocyte,0.3664355322,pdha1a
+0.384,0.121,NCC ionocyte,0.3664355322,si:zfos-943e10.1
+0.593,0.158,NCC ionocyte,0.3664355322,coq9
+0.582,0.182,NCC ionocyte,0.3664355322,mal2
+0.463,0.077,NCC ionocyte,0.3664355322,vwa10.2
+0.537,0.134,NCC ionocyte,0.3664355322,gb:bc139872
+0.52,0.024,NCC ionocyte,0.3664355322,zgc:64106
+0.52,0.126,NCC ionocyte,0.3664355322,zgc:152670
+0.339,0.109,NCC ionocyte,0.3664355322,si:ch211-125o16.4
+0.333,0.094,NCC ionocyte,0.3664355322,abhd4
+0.944,0.721,NCC ionocyte,0.3664355322,mhc2dab
+0.531,0.265,NCC ionocyte,0.3664355322,mgst1.2
+0.633,0.256,NCC ionocyte,0.3664355322,cox7a1
+0.734,0.364,NCC ionocyte,0.3664355322,ndufc2
+0.395,0.16,NCC ionocyte,0.3664355322,ppip5k2
+0.661,0.335,NCC ionocyte,0.3664355322,zgc:153284
+0.463,0.166,NCC ionocyte,0.3664355322,acat1
+0.621,0.208,NCC ionocyte,0.3664355322,mccc2
+0.367,0.149,NCC ionocyte,0.3664355322,tapbpl
+0.989,0.828,NCC ionocyte,0.3664355322,cd74b
+0.548,0.198,NCC ionocyte,0.3664355322,CABZ01073795.1
+0.927,0.697,NCC ionocyte,0.3664355322,NC-002333.17
+0.599,0.399,NCC ionocyte,0.3664355322,elf3
+0.429,0.16,NCC ionocyte,0.3664355322,dhrs13l1
+0.339,0.122,NCC ionocyte,0.3664355322,eci2
+0.616,0.262,NCC ionocyte,0.3664355322,si:ch211-183d5.2
+0.407,0.157,NCC ionocyte,0.3664355322,oxct1a
+0.458,0.059,NCC ionocyte,0.3664355322,mboat1
+0.571,0.186,NCC ionocyte,0.3664355322,prdx1
+0.571,0.176,NCC ionocyte,0.3664355322,gstt1a
+0.695,0.277,NCC ionocyte,0.3664355322,cox5b2
+0.548,0.165,NCC ionocyte,0.3664355322,mt-atp8
+0.667,0.296,NCC ionocyte,0.3664355322,NC-002333.7
+0.469,0.125,NCC ionocyte,0.3664355322,abca12
+0.497,0.147,NCC ionocyte,0.3664355322,si:ch211-160j14.2
+0.497,0.122,NCC ionocyte,0.3664355322,si:dkeyp-72e1.7
+0.424,0.223,NCC ionocyte,0.3664355322,sult6b1
+0.356,0.095,NCC ionocyte,0.3664355322,si:dkey-30c15.2
+0.401,0.162,NCC ionocyte,0.3664355322,zgc:113314
+0.588,0.2,NCC ionocyte,0.3664355322,cyp3c1
+0.458,0.128,NCC ionocyte,0.3664355322,zgc:165532
+0.537,0.27,NCC ionocyte,0.3664355322,wdr83os
+0.87,0.681,NCC ionocyte,0.3664355322,zgc:92066
+0.475,0.112,NCC ionocyte,0.3664355322,tmcc1b
+0.424,0.143,NCC ionocyte,0.3664355322,ggt1l2.1
+0.373,0.145,NCC ionocyte,0.3664355322,timm10b
+0.588,0.21,NCC ionocyte,0.3664355322,grna
+0.972,0.832,NCC ionocyte,0.3664355322,cd74a
+0.503,0.16,NCC ionocyte,0.3664355322,mrps33
+0.61,0.293,NCC ionocyte,0.3664355322,arg2
+0.475,0.124,NCC ionocyte,0.3664355322,cbx8a
+0.514,0.14,NCC ionocyte,0.3664355322,ftr83
+0.446,0.126,NCC ionocyte,0.3664355322,itsn2b
+0.475,0.238,NCC ionocyte,0.3664355322,glod5
+0.52,0.107,NCC ionocyte,0.3664355322,rgs4
+0.542,0.164,NCC ionocyte,0.3664355322,ctsz
+0.492,0.17,NCC ionocyte,0.3664355322,h1f0
+0.373,0.108,NCC ionocyte,0.3664355322,styk1
+0.88,0.133,Stromal cell,0.9650862069,si:ch211-106h4.12
+0.59,0.123,Stromal cell,0.9650862069,vtg1
+0.807,0.139,Stromal cell,0.9650862069,col1a1a
+0.59,0.103,Stromal cell,0.9650862069,apoa2
+0.627,0.113,Stromal cell,0.9650862069,col10a1a
+0.783,0.105,Stromal cell,0.9650862069,rbp4
+0.554,0.078,Stromal cell,0.9650862069,apoa1b
+0.627,0.068,Stromal cell,0.9650862069,ifitm1
+0.771,0.103,Stromal cell,0.9650862069,col1a1b
+0.687,0.118,Stromal cell,0.9650862069,ptgdsb.2
+0.566,0.056,Stromal cell,0.9650862069,lum
+0.554,0.072,Stromal cell,0.9650862069,vtg4
+0.554,0.083,Stromal cell,0.9650862069,vtg5
+0.59,0.07,Stromal cell,0.9650862069,vtg2
+0.711,0.113,Stromal cell,0.9650862069,col1a2
+0.53,0.102,Stromal cell,0.9650862069,ctgfa
+0.759,0.196,Stromal cell,0.9650862069,ptgdsb.1
+0.554,0.072,Stromal cell,0.9650862069,fabp10a
+0.904,0.232,Stromal cell,0.9650862069,sparc
+0.614,0.06,Stromal cell,0.9650862069,ecrg4a
+0.554,0.078,Stromal cell,0.9650862069,vtg6
+0.554,0.065,Stromal cell,0.9650862069,tfa
+0.614,0.135,Stromal cell,0.9650862069,apoc1
+0.434,0.05,Stromal cell,0.9650862069,f13a1b
+0.59,0.099,Stromal cell,0.9650862069,zgc:198419
+0.506,0.096,Stromal cell,0.9650862069,acta2
+0.482,0.065,Stromal cell,0.9650862069,fstb
+0.651,0.042,Stromal cell,0.9650862069,pdgfrl
+0.578,0.014,Stromal cell,0.9650862069,cilp
+0.663,0.101,Stromal cell,0.9650862069,col12a1a
+0.277,0.034,Stromal cell,0.9650862069,col8a1b
+0.53,0.036,Stromal cell,0.9650862069,vtg7
+0.446,0.119,Stromal cell,0.9650862069,myl9a
+0.47,0.107,Stromal cell,0.9650862069,lgals2a
+0.373,0.062,Stromal cell,0.9650862069,col6a3
+0.47,0.06,Stromal cell,0.9650862069,si:dkey-12l12.1
+0.494,0.156,Stromal cell,0.9650862069,srgn
+0.59,0.025,Stromal cell,0.9650862069,matn1
+0.602,0.119,Stromal cell,0.9650862069,thbs1b
+0.482,0.044,Stromal cell,0.9650862069,col6a1
+0.747,0.326,Stromal cell,0.9650862069,crip1
+0.47,0.138,Stromal cell,0.9650862069,serpinh1b
+0.554,0.141,Stromal cell,0.9650862069,fn1b
+0.639,0.144,Stromal cell,0.9650862069,cyr61
+0.663,0.209,Stromal cell,0.9650862069,cxcl12a
+0.554,0.084,Stromal cell,0.9650862069,mxra8b
+0.386,0.03,Stromal cell,0.9650862069,col5a1
+0.675,0.147,Stromal cell,0.9650862069,sfrp1b
+0.253,0.069,Stromal cell,0.9650862069,cpe
+0.398,0.079,Stromal cell,0.9650862069,dlx4a
+0.434,0.045,Stromal cell,0.9650862069,CABZ01118001.1
+0.41,0.113,Stromal cell,0.9650862069,serpine2
+0.518,0.045,Stromal cell,0.9650862069,tagln
+0.639,0.101,Stromal cell,0.9650862069,selenop
+0.506,0.104,Stromal cell,0.9650862069,si:ch211-1a19.3
+0.41,0.068,Stromal cell,0.9650862069,gas1a
+0.554,0.057,Stromal cell,0.9650862069,zgc:123103
+0.602,0.141,Stromal cell,0.9650862069,gpx4a
+0.602,0.061,Stromal cell,0.9650862069,pcolcea
+0.518,0.048,Stromal cell,0.9650862069,twist2
+0.422,0.025,Stromal cell,0.9650862069,bgnb
+0.53,0.065,Stromal cell,0.9650862069,cbln8
+0.542,0.031,Stromal cell,0.9650862069,thbs4b
+0.518,0.066,Stromal cell,0.9650862069,col6a2
+0.446,0.127,Stromal cell,0.9650862069,igfbp5b
+0.554,0.057,Stromal cell,0.9650862069,fgg
+0.602,0.061,Stromal cell,0.9650862069,lrp1aa
+0.627,0.053,Stromal cell,0.9650862069,hhip
+0.578,0.072,Stromal cell,0.9650862069,vtg3
+0.675,0.108,Stromal cell,0.9650862069,loxl4
+0.482,0.086,Stromal cell,0.9650862069,sost
+0.494,0.134,Stromal cell,0.9650862069,snai2
+0.434,0.013,Stromal cell,0.9650862069,loxa
+0.614,0.087,Stromal cell,0.9650862069,zgc:77517
+0.506,0.06,Stromal cell,0.9650862069,nid1a
+0.554,0.037,Stromal cell,0.9650862069,crhbp
+0.41,0.061,Stromal cell,0.9650862069,fstl1b
+0.554,0.057,Stromal cell,0.9650862069,serpina1l
+0.398,0.085,Stromal cell,0.9650862069,acana
+0.663,0.18,Stromal cell,0.9650862069,steap4
+0.386,0.056,Stromal cell,0.9650862069,clic2
+0.494,0.166,Stromal cell,0.9650862069,krt15
+0.554,0.057,Stromal cell,0.9650862069,c3a.1
+0.687,0.145,Stromal cell,0.9650862069,gata2a
+0.458,0.123,Stromal cell,0.9650862069,ppp1r1c
+0.554,0.056,Stromal cell,0.9650862069,fetub
+0.506,0.039,Stromal cell,0.9650862069,cxcl12b
+0.554,0.123,Stromal cell,0.9650862069,lxn
+0.627,0.079,Stromal cell,0.9650862069,fads2
+0.554,0.084,Stromal cell,0.9650862069,apom
+0.386,0.065,Stromal cell,0.9650862069,scin
+0.59,0.086,Stromal cell,0.9650862069,fstl3
+0.554,0.076,Stromal cell,0.9650862069,apoa1a
+0.663,0.236,Stromal cell,0.9650862069,CR855311.1
+0.59,0.118,Stromal cell,0.9650862069,fgl2a
+0.554,0.057,Stromal cell,0.9650862069,apoa4b.1
+0.398,0.097,Stromal cell,0.9650862069,rbp5
+0.542,0.038,Stromal cell,0.9650862069,fbln5
+0.639,0.135,Stromal cell,0.9650862069,stom
+0.554,0.056,Stromal cell,0.9650862069,fgb
+0.373,0.094,Stromal cell,0.9650862069,anos1b
+0.554,0.145,Stromal cell,0.9650862069,myoc
+0.253,0.038,Stromal cell,0.9650862069,twist1a
+0.41,0.093,Stromal cell,0.9650862069,postnb
+0.554,0.051,Stromal cell,0.9650862069,tmem176
+0.386,0.054,Stromal cell,0.9650862069,crabp2b
+0.542,0.051,Stromal cell,0.9650862069,nppc
+0.554,0.019,Stromal cell,0.9650862069,otos
+0.446,0.061,Stromal cell,0.9650862069,rhag
+0.518,0.115,Stromal cell,0.9650862069,klf2a
+0.542,0.018,Stromal cell,0.9650862069,c1qtnf5
+0.434,0.046,Stromal cell,0.9650862069,dpt
+0.337,0.023,Stromal cell,0.9650862069,fibina
+0.434,0.077,Stromal cell,0.9650862069,col11a2
+0.41,0.096,Stromal cell,0.9650862069,irf2bp2b
+0.542,0.028,Stromal cell,0.9650862069,serpina10a
+0.614,0.096,Stromal cell,0.9650862069,colec12
+0.554,0.056,Stromal cell,0.9650862069,rbp2b
+0.614,0.143,Stromal cell,0.9650862069,sesn1
+0.554,0.063,Stromal cell,0.9650862069,serpina1
+0.578,0.014,Stromal cell,0.9650862069,dkk1b
+0.518,0.093,Stromal cell,0.9650862069,scara3
+0.53,0.059,Stromal cell,0.9650862069,leg1.1
+0.602,0.084,Stromal cell,0.9650862069,hsd3b7
+0.518,0.054,Stromal cell,0.9650862069,admb
+0.373,0.004,Stromal cell,0.9650862069,angptl1a
+0.578,0.179,Stromal cell,0.9650862069,arpc1b
+0.578,0.051,Stromal cell,0.9650862069,CR925728.1
+0.542,0.042,Stromal cell,0.9650862069,plekhm3
+0.434,0.075,Stromal cell,0.9650862069,aoc2
+0.53,0.065,Stromal cell,0.9650862069,rbp2a
+0.386,0.138,Stromal cell,0.9650862069,BX511021.2
+0.41,0.116,Stromal cell,0.9650862069,cebpa
+0.602,0.095,Stromal cell,0.9650862069,emp2
+0.518,0.035,Stromal cell,0.9650862069,ahsg1
+0.554,0.092,Stromal cell,0.9650862069,g0s2
+0.47,0.039,Stromal cell,0.9650862069,hspb8
+0.434,0.086,Stromal cell,0.9650862069,gcnt4a
+0.59,0.057,Stromal cell,0.9650862069,cp
+0.518,0.041,Stromal cell,0.9650862069,apoc2
+0.386,0.052,Stromal cell,0.9650862069,serpinf1
+0.506,0.002,Stromal cell,0.9650862069,exoc3l1
+0.59,0.065,Stromal cell,0.9650862069,hsd11b2
+0.542,0.024,Stromal cell,0.9650862069,inhbaa
+0.47,0.126,Stromal cell,0.9650862069,ddah2
+0.518,0.074,Stromal cell,0.9650862069,bhlhe41
+0.614,0.143,Stromal cell,0.9650862069,csrp1a
+0.386,0.104,Stromal cell,0.9650862069,bms1
+0.542,0.014,Stromal cell,0.9650862069,rspo1
+0.578,0.052,Stromal cell,0.9650862069,arsia
+0.578,0.055,Stromal cell,0.9650862069,nectin3b
+0.554,0.056,Stromal cell,0.9650862069,ambp
+0.651,0.175,Stromal cell,0.9650862069,angptl4
+0.506,0.11,Stromal cell,0.9650862069,msmo1
+0.542,0.105,Stromal cell,0.9650862069,mob2a
+0.53,0.035,Stromal cell,0.9650862069,aqp12
+0.41,0.071,Stromal cell,0.9650862069,tbx2b
+0.482,0.073,Stromal cell,0.9650862069,ugdh
+0.253,0.005,Stromal cell,0.9650862069,atp10a
+0.53,0.035,Stromal cell,0.9650862069,pnp4b
+0.265,0.047,Stromal cell,0.9650862069,mmd
+0.566,0.053,Stromal cell,0.9650862069,rtn1a
+0.446,0.094,Stromal cell,0.9650862069,FO681357.1
+0.566,0.015,Stromal cell,0.9650862069,spp1
+0.542,0.097,Stromal cell,0.9650862069,BX908782.2
+0.518,0.08,Stromal cell,0.9650862069,c8g
+0.542,0.095,Stromal cell,0.9650862069,tmtc1
+0.59,0.121,Stromal cell,0.9650862069,wnt4a
+0.675,0.28,Stromal cell,0.9650862069,hmgb3a
+0.554,0.057,Stromal cell,0.9650862069,pklr
+0.807,0.631,Stromal cell,0.9650862069,mibp2
+0.554,0.056,Stromal cell,0.9650862069,rnasel2
+1,0.936,Stromal cell,0.9650862069,rps2
+0.47,0.112,Stromal cell,0.9650862069,id2b
+0.566,0.128,Stromal cell,0.9650862069,cdk12
+0.614,0.096,Stromal cell,0.9650862069,hapln1b
+0.47,0.07,Stromal cell,0.9650862069,pah
+0.566,0.162,Stromal cell,0.9650862069,mrps33
+0.566,0.069,Stromal cell,0.9650862069,antxr2a
+0.542,0.056,Stromal cell,0.9650862069,ccl39.2
+0.554,0.056,Stromal cell,0.9650862069,rnasel3
+0.434,0.078,Stromal cell,0.9650862069,sil1
+0.59,0.08,Stromal cell,0.9650862069,cyp26a1
+0.398,0.123,Stromal cell,0.9650862069,smad3a
+0.265,0.18,Stromal cell,0.9650862069,si:ch211-153b23.5
+0.53,0.035,Stromal cell,0.9650862069,zgc:112265
+0.53,0.035,Stromal cell,0.9650862069,kng1
+0.53,0.073,Stromal cell,0.9650862069,ldhbb
+0.253,0.076,Stromal cell,0.9650862069,plod1a
+0.542,0.056,Stromal cell,0.9650862069,si:dkeyp-73d8.6
+0.518,0.035,Stromal cell,0.9650862069,hp
+0.494,0.127,Stromal cell,0.9650862069,adma
+0.53,0.024,Stromal cell,0.9650862069,ace
+0.59,0.045,Stromal cell,0.9650862069,FO704741.1
+0.59,0.039,Stromal cell,0.9650862069,crabp1b
